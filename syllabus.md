@@ -6,9 +6,9 @@ title: Syllabus
 ## BookLab: Print to Programming
 
 + Course Number: IS583 BL / ENGL578 BL
-+ Spring 2023
++ Spring 2024
 + Classroom: [CU Community FabLab](http://cucfablab.org/)
-+ Class Time: Thursdays 12:30-3:20pm
++ Class Time: Mondays 9-11:50
 + Credit hours: 4
 + FabLab Open Hours: 
     + Monday-Thursday 5-9pm & Sunday 1-6pm (public)
@@ -19,9 +19,9 @@ title: Syllabus
 
 + Ryan Cordell
 + Office: 614 Daniel St., Room 5147
-+ Office Hours: Tuesday 11am-12pm and Thursdays 5-6pm in Skeuomorph Press, and by appointment
++ Office Hours: tbd
 + Phone: 217-333-2622
-+ Email: [rcordell@illinois.edu](mailto:rcordell@illinois.edu)
++ Email: [rcordell@illinois.edu](mailto:rcordell@illinois.edu). 
 
 ## Course Description
 
@@ -35,42 +35,13 @@ Through our discussions we will develop greater capacities to critically read ma
 
 ### Acknowledgments
 
-In developing this course I learned from many people, but I particularly thank [Whitney Trettien](http://whitneyannetrettien.com/), [Matthew Kirschenbaum](https://mkirschenbaum.wordpress.com/), and [Kari Kraus](http://www.karikraus.com/) for graduate syllabi from which I drew particular inspiration. I thank Matthew and Kari, in particular, for the [Book Lab moniker](https://english.umd.edu/research-innovation/booklab), which they graciously agreed to share.
+In developing this course I learned from many people, but I particularly thank [Whitney Trettien](http://whitneyannetrettien.com/), [Matthew Kirschenbaum](https://mkirschenbaum.wordpress.com/), and [Kari Kraus](http://www.karikraus.com/) for graduate syllabi from which I drew particular inspiration. I thank Matthew and Kari, in particular, for the [Book Lab moniker](https://english.umd.edu/research-innovation/booklab), which they graciously agreed to share, and for Matthew's own [BookLab graduate syllabus](https://www.sharpweb.org/sharpnews/wp-content/uploads/2021/08/Kirschenbaum_ENGL-759C-S20-BookLab-Syllabus.pdf) from which I have learned (and borrowed) much.
 
 ### Pre- and Co-requisites
 
-BookLab presumes no prior experience and thus is well suited for all students interested in book history, digital humanities, or adjacent fields. 
-
-## Course Materials
-
-The majority of our readings will be available online. You will need to acquire the _The Book_, however, which is available through the campus bookstore. I also recommend you buy a copy of Sarah Werner's book _Studying Early Printed Books, 1450-1800_ if you can. There is an electronic version available through the library, but it seems only one reader at a time can access it, which could become complicated.
-
-+ Amaranth Borsuk, [*The Book*](https://mitpress.mit.edu/books/book) (MIT Press, 2018)
-+ Sarah Werner, [_Studying Early Printed Books, 1450-1800: A Practical Guide_](https://www.earlyprintedbooks.com/studying-early-printed-books-1450-1800-a-practical-guide/) (Wiley, 2019) 
+BookLab presumes no prior experience and thus is well suited for all students interested in book history, digital humanities, or adjacent fields.  
 
 ## Course Policies
-
-### Caveat Emptor
-
-This class may be a bit different from most of your graduate classes. I hope you will see these differences as exciting and intellectually stimulating, but you should be aware of the following caveats as we begin (and thanks to Miriam Posner for [writing the first draft](http://dh201.humanities.ucla.edu/2013/#why) of these caveats for her DH grad course). If you can face these challenges with persistence, verve, and (reasonably) good humor—and abide by the code of conduct outlined below—we should have an intellectually enlivening semester. If you have any concerns about these caveats, please come talk to me. I am confident we can find a way forward if we work together. 
-
-#### 1. The course will itself be an experiment.
-
-The concepts and structure of BookLab emerged from my experiences teaching experiential book and media history to undergraduates; my own experiences—alongside faculty, librarians, and graduate students—with hands-on archival work and instruction through organizations such as the [Rare Book School](https://rarebookschool.org/) and the [Digital Humanities Summer Institute](http://dhsi.org); and my growing conviction that theory and praxis must be intertwined in scholarly discussions of historical and contemporary textual technologies. This course will focus on inscription technologies from the hand press period to the internet, which we will come to understand through a range of readings *and* hands-on book labs in class. 
-
-An experiential course such as this opens itself up to many quirks: the syllabus may shift; a given tool might not work as expected; an experiment might veer off track or fail altogether. In other words, this course will require both an inventive spirit and patience from its students.
-
-#### 2. You may not produce a final seminar paper.
-
-You will likely produce a final, (potentially) collaborative project that will ask you to be conscious about relationships among media and messages. Likely this project will require substantial writing, but it will not look like a 20 page seminar paper at semester’s end. Instead, your projects will require sustained work and will be multimodal, comprising text and other elements (e.g. digital images, maps, network graphs). Your projects may be fully digital, fully analog, or some hybrid of the two. These projects may well lead into more established forms of writing or publication, but we will not begin there. 
-
-#### 3. You will collaborate (not just do group work).
-
-Digital humanities projects often require collaboration among scholars who bring different intellectual and technical skills to expansive projects. This class will require you to work together both in class and for some of your assignments, distributing responsibilities and sharing credit.
-
-#### 4. You will be required to acquire some technical skills (old and new).
-
-I do not require or assume any particular technical experience as we begin this course, but I will expect you to be willing to experiment with new tools and learn new technical skills throughout the semester. In this course, those skills will run the gamut from the historical—such as letterpress printing—to the contemporary—such as computer programming. “I’m not very technical” will not excuse you from the hands-on portions of the course any more than “I’m not poetic” would excuse you from reading Dickinson in a survey of American literature. Some of the tools we test you may find useful for your research program; some you will not. But I expect you to try them with enthusiasm and an open mind.
 
 ### Code of Conduct
 
@@ -90,14 +61,10 @@ The code of conduct for this course borrows directly from the stellar model outl
     + Unwelcome sexual attention.
     + Advocating for, or encouraging, any of the above behavior.
     + Repeated harassment of others. In general, if someone asks you to stop, then stop.
+ 
+### Social Media
 
-### COVID Caveat 
-
-I have adapted much of the prose on this page and the linked syllabus pages from other courses offered in very different semesters. I have tried to adjust the course policies and expectations to account for the strangeness of the times. I am certain, however, that I have not imagined every situation that might arise, or fully accounted for the full range or extremity of situations you might find yourselves in this term. Frankly, I will rely on your understanding and grace as I teach this course in entirely new ways. I hope to extend the same understanding and grace to you.
-
-Consider this caveat an _override switch_ for everything—yes, literally everything—else on the syllabus. I mean this sincerely: everything on this syllabus and in this class is subject to this one clause. We’re all doing our best to learn together during an unprecedentedly difficult time. We’re working in new ways and in unusual environments. We are caring for others while trying to keep ourselves healthy, sheltered, fed, and sane. We are worried all the time, and some of us are dealing with fear and loss. Among all these challenges, I still want to come together and talk about media history and digital humanities because I find these topics fascinating and—dare I say it, given this world we find ourselves in—important. I believe we can learn a lot from each other and even have some fun together in the next months. I will operate from the base assumption that each of you is here in good faith: that you are curious, engaged, and eager to do the best work you can.
-
-Taking all that as given, I also want you to **_know_** that your health—both physical and mental—is always more important to me than this class. Your family and friends’ health is always more important to me than this class. You don’t have to apologize to me if attempting to learn _during a pandemic_ forces you to work at a different pace from what’s outlined on this syllabus, or if we need to find an alternative path for you through this class. My primary role as a teacher is to support you however I can. Let me know how I can do that better. I mean all of this, sincerely. Let’s work together to meet the challenges and find the joys of this strange semester.
+From time to time I will wish to take photos of class activities for posting on [Skeuomorph Press' website](https://skeuomorph.ischool.illinois.edu/), [Instagram](https://www.instagram.com/skeuomorphpress) and/or [Bluesky](https://bsky.app/profile/skeuomorph.bsky.social) accounts. If you would prefer not to appear in any such images, just tell me: no reason or explanation is necessary, and it will not affect your standing in the class in any way. I try not to name or tag people without their explicit permission, but if you know that you never want to be named or tagged in a public image, please tell me and I will make a note of it. If at some point I mistakenly include you in an image—in the background, perhaps, where I did not notice—let me know and I will remove it immediately. In general, I am fine with you posting things from class—some of our activities will be, if I dare say so myself, _very_ photogenic!—but I ask that you follow these same guidelines out of consideration for your classmates. Please feel free to tag me—@ryancordell on most platforms—but especially the FabLab and/or Skeuomorph in your posts.  Likewise, I will want to document your final projects with photos and/or video, but you can of course opt out of those projects being shared in any way, with absolutely no penalty for doing so.
 
 ### Academic Integrity
 
@@ -107,7 +74,7 @@ See the student code for academic integrity requirements: [http://studentcode.il
 
 ### Statement of Inclusion
 
-[**https://diversity.illinois.edu/about/senate-diversity-resolution/**](https://diversity.illinois.edu/about/senate-diversity-resolution/)
+From: <https://diversity.illinois.edu/about/senate-diversity-resolution/>
 
 As the state's premier public university, the University of Illinois at Urbana-Champaign's core mission is to serve the interests of the diverse people of the state of Illinois and beyond. The institution thus values inclusion and a pluralistic learning and research environment, one which we respect the varied perspectives and lived experiences of a diverse community and global workforce. We support diversity of worldviews, histories, and cultural knowledge across a range of social groups including race, ethnicity, gender identity, sexual orientation, abilities, economic class, religion, and their intersections.
 
@@ -115,7 +82,7 @@ As the state's premier public university, the University of Illinois at Urbana-C
 
 In keeping with our Statement of Inclusion and Illinois law, the University is required to reasonably accommodate its students' religious beliefs, observances, and practices in regard to admissions, class attendance, and the scheduling of examinations and work requirements.
 
-Religious Observance Accommodation Request form: [https://cm.maxient.com/reportingform.php?UnivofIllinois&amp;layout\_id=19](https://cm.maxient.com/reportingform.php?UnivofIllinois&amp;layout_id=19)
+Religious Observance Accommodation Request form: <https://cm.maxient.com/reportingform.php?UnivofIllinois&amp;layout\_id=19>
 
 Other accommodations may be available.
 
@@ -133,6 +100,4 @@ As a land-grant institution, the University of Illinois has a particular respons
 
 ### Graduate Academic Support & Tutoring:
 
-The iSchool Writing Resources is the in-house writing support team for graduate students at the iSchool. They are here to help you with your writing and help you feel more comfortable and confident in your skills. The writing consultants are not professors or evaluators. They simply know the struggles of graduate and undergraduate-level writing and want to help you learn how to succeed and improve your writing skills. The iSchool writing consultants can help you with every step of the writing process. For detailed information on our services please visit our website:
-
-[https://publish.illinois.edu/ischoolwritingresources/](https://publish.illinois.edu/ischoolwritingresources/)
+The iSchool Writing Resources is the in-house writing support team for graduate students at the iSchool. They are here to help you with your writing and help you feel more comfortable and confident in your skills. The writing consultants are not professors or evaluators. They simply know the struggles of graduate and undergraduate-level writing and want to help you learn how to succeed and improve your writing skills. The iSchool writing consultants can help you with every step of the writing process. For detailed information on our services please visit our website:<https://publish.illinois.edu/ischoolwritingresources/>.
