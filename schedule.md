@@ -227,6 +227,7 @@ _Visiting expert Professor Bea Nettles_
 
 + Octave Uzanne, "The End of Books" (1894), [external link](https://archive.org/details/TheEndOfBooks/mode/2up)
 + Amaranth Borsuk, ["The Book as Interface"](https://ebookcentral.proquest.com/lib/uiuc/reader.action?docID=5376610) from _The Book_ (2018), [library link](https://ebookcentral.proquest.com/lib/uiuc/detail.action?docID=5376610)
++ Amanda Stuckey, "Access in Book History Methodology and Pedagogy: Report from the 'Touch to See' Workshop" (2022), [library link](https://proxy2.library.illinois.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edselc&AN=edselc.2-52.0-85165165636&site=eds-live&scope=site)
 
 ### Penumbra
 
