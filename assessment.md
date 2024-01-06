@@ -9,7 +9,7 @@ As you no doubt know, grading can be a contentious issue in college courses, par
 
 > The advantage of contract grading is that you, the student, decide how much work you wish to do this semester; if you complete that work on time and satisfactorily, you will receive the grade for which you contracted. This means planning ahead, thinking about all of your obligations and responsibilities this semester and also determining what grade you want or need in this course. The advantage of contract grading to the professor is no whining, no special pleading, on the students part. If you complete the work you contracted for, you get the grade. Done. I respect the student who only needs a C, who has other obligations that preclude doing all of the requirements to earn an A in the course, and who contracts for the C and carries out the contract perfectly. (This is another one of those major life skills: taking responsibility for your own workflow.)
 
-In graduate courses, however, these issues are even more acute, as you professionalize away from away a system in which you are assigned letter grades and toward a system where you must take ownership of your own work, ensuring it meets the standards of professional performance, service, research, and writing. Your professors will give you feedback and guidance—and will at points decide whether your work is sufficient to move to the next stage—but your theses, comprehensive exam papers, or dissertation chapters will likely not be given A's or B's. In your work experiences, you will certainly not be given letter grades, but instead be evaluated in other ways, often with your own participation. 
+In graduate courses, however, these issues are even more acute, as you professionalize away from away a system in which you are assigned letter grades and toward a system where you must take ownership of your own work, ensuring it meets the standards of professional performance, service, research, and writing. Your professors will give you feedback and guidance—and will at points decide whether your work is sufficient to move to the next stage—but your thesis, GA jobs, comprehensive exam papers, or dissertation chapters will likely not be given A's or B's. In your longer career, you will certainly not be given letter grades, but instead be evaluated in other ways, often with your own participation. 
 
 In addition, BookLab is an experimental course in which I want you to feel empowered to experiment and even sometimes to fail. I want to create an environment in which intellectual risk-taking and creative scholarship can be rewarded, even when it does not pan out as hoped. 
 
@@ -36,11 +36,11 @@ This system will only work, however, if you also commit to:
 
 1. Holding yourself to the highest standards. You should work to the best of your abilities throughout the semester in your reading, class-room conversation, and assignments. 
 2. Taking intellectual risks when possible, pushing yourself to think, write, and create in new modes and grown as a scholar and teacher. This may prompt anxiety, which you can work through by doing and with my help (see above).
-3. Experimenting with new tools and learning new technical skills with enthusiasm and an open mind.
+3. Participating in lab activities as fully as possible, experimenting with new tools and learning new technical skills with enthusiasm and an open mind.
 4. Assisting your colleagues with our laboratories when you have prior expertise, or if you acquire it more quickly during the lab itself.
 5. Clearly articulating your goals and methods when you take intellectual risks in assignments so that I can understand what you are seeking to do, even if the final product does not turn out as expected.
 6. Respecting your colleagues' identity, perspectives, and intellectual commitments in class discussions and assignments. You may push them to consider other perspectives, but you should not dismiss their thoughts or take them lightly. If someone feels you are doing either of those things, you should listen and adjust your responses as necessary. See our class code of conduct for more details.
-7. Meeting with me, in person or via Skype, at least two times during the semester to discuss your work and ensure you are meeting expectations (my own and yours) for work in the class. 
+7. Meeting with me, in person or via Zoom, at least two times during the semester to discuss your work and ensure you are meeting expectations (my own and yours) for work in the class. 
 
 ### Adjustment Caveat
 
@@ -48,12 +48,8 @@ I do reserve the right to adjust grades as appropriate, if a student takes undue
 
 ## Incomplete grades
 
-Students must initiate an incomplete request by __contacting the instructor. The instructor and student must agree on a due date for completion of coursework.__ The student must fill out the Incomplete Form and get it signed by the student, the instructor, and the student's academic adviser.
+Students must initiate an incomplete request by **_contacting the instructor_. The instructor and student must agree on a due date for completion of coursework.** The student must fill out the Incomplete Form and get it signed by the student, the instructor, and the student's academic adviser.
 
 A request for an incomplete grade is most often granted to students encountering a medical emergency or other extraordinary circumstances beyond their control. Students must request an incomplete grade from the instructor. The instructor and student will agree on a due date for completion of coursework. The student must submit an Incomplete Form signed by the student, the instructor, and the student&#39;s academic advisor to the front office: [https://uofi.app.box.com/s/sx7arobhr0gfw12teaetmp1qq32ifdrd](https://uofi.app.box.com/s/sx7arobhr0gfw12teaetmp1qq32ifdrd)
 
 Please see the Student Code for full details: [http://studentcode.illinois.edu/article3/part1/3-104/](http://studentcode.illinois.edu/article3/part1/3-104/)
-
-
-
-

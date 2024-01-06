@@ -13,7 +13,9 @@ title: Syllabus
 + FabLab Open Hours: 
     + Monday-Thursday 5-9pm & Sunday 1-6pm (public)
     + Friday 1-5pm (students in FabLab classes) 
-+ Skeuomorph Press Open Hours: TBA 
++  Skeuomorph Press Open Hours: 
+    + Sunday 1-6pm
+    + Tuesday & Wednesday 5-9pm
 
 ## Instructor Info
 

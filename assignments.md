@@ -31,48 +31,34 @@ Particularly in a graduate class, students are often tempted to write 3 lengthy 
 
 I will not collect your discussion prep each week. This does not mean, however, that you should keep your discussion prep in your mind or try to wing it—I do expect you to write your prep down before class, in either a physical or digital notebook. You should be prepared to reference your prep directly when asked during discussion or when it is pertinent to in-class group work, or to show your prep notebook to me on request.
 
----
+<center>☞ ---- ☜</center>
 
-## 2. Dead Media Poster
+## 2. Book Reports
 
 ### Assignment Overview
 
-+ A conference-style poster about a "dead" medium's history
-+ Students work in pairs
-+ Due for in-class poster session on Monday, March 4
++ Students will work individually
++ 4 submissions through the semester (1 for each unit of the class)
++ ~750-1000 words apiece
++ Submitted via Canvas
++ Due within a week of the end of each unit
 
 ### Assignment Details
 
-In [“Imagining the New Media Encounter,"](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405148641/9781405148641.xml&chunk.id=ss1-3-1&toc.depth=1&toc.id=ss1-3-1&brand=9781405148641_brand) Alan Liu suggests that “The déjá vu haunting of new by old media is clear enough.” New technologies and new modes of communication draw, both technically and metaphorically, from older modes—including “dead media” that have, to all surface appearances, entirely disappeared. To better understand this haunting, you will work in pairs to research a historical new medium and/or technology that flourished and then faded from popular view: some might call this [“media archaeology.”](http://mediaarchaeologylab.com/) These new media might be very old indeed or relatively new: new textual technologies have emerged since the invention of writing—if not earlier—while some popular technologies introduced as recently as a decade ago are already obsolete. 
+As the semester progresses, you will use our readings, class discussions, archival visits, labs, and other activities to develop an understanding of the book as a synecdoche for larger structures of information and media. You will reflect on these connections in a series of four "book reports"—one for each chapter/unit of the class (save the Coda). 
 
-#### How 'Dead' is Dead?
+Book reports should aim for more substance and detail than a typical class forum response, but they are not full-fledged academic essays. Think instead of smart, critical writing you might encounter online: a blog entry or a sharp opinion piece. You can choose your focus for each, drawing on the readings and activities of the relevant chapter/unit of the class. Reports should synthesize and bring unit readings into conversation, and focus on developing an argument around a few core ideas. You should not spend words summarizing readings or recounting discussions from class, but instead choosing details that help illustrate your own ideas. 
 
-I would ask that you employ a relatively strict, but not pedantic, definition of “dead media”: it should mean less than “completely and totally banished from human culture” but more than “no longer hip.” To put this idea another way: a small community of dedicated enthusiasts should not rescue a technology from being called “dead media,” but neither should we prematurely kill off a medium that is still in wide use, even if many users have moved on (think of CDs, which are now resurgent but even at their least hip had a significant community of older users). As future librarians and information professionals, I would encourage you not to fall into generational fallacies or the planned obsolescence
-cycles of Silicon Valley when naming media either vibrant or dead!
+Remember what [Judge John Hodgman](https://maximumfun.org/podcasts/judge-john-hodgman/) frequently reminds his listeners, “specificity is the soul of narrative.” Avoid broad generalizations and instead use these book reports to delve into your own corners of intellectual interest. You might cite a specific idea from one of your colleagues as evidence, and you should absolutely cite specific insights from our readings—I would in fact encourage to quote and cite regularly. You should highlight specific ways that our activities brought our readings into relief, or exposed disjunctures between theory and praxis. And you should connect some of our readings, activities, and course themes to texts and ideas you encounter in other classes and contexts.
 
-#### Resources for Finding a Medium
+Each report is due 1 week following the close of the relevant unit. I consider Friday the end of our week, even through we meet Mondays. So the posts will be due:
 
-You might consider this list from the original [Dead Media Project](http://www.deadmedia.org/notes/index-numeric.html) or from the [Dead Media Archive](http://cultureandcommunication.org/deadmedia/index.php/Main_Page) as you plan your topic. Importantly, however, you will note that these resources are quite old, for webpages and will necessarily not include media that have died since they were written, such as (arguably?) Flash websites. When choosing your medium, opt for the unfamiliar and the strange if at all possible—try to find a medium you suspect your colleagues have never heard of, or perhaps one they will _think_ they know until its reality surprises them. 
++ Chapter 1 ❧ Substrate: February 9
++ Chapter 2 ❧ Platform: March 1
++ Chapter 3 ❧ Format: April 5
++ Chapter 4 ❧ Interface: April 26
 
-For spring 2024 I am issuing a preemptiveve veto on just one medium: [the language of flowers](http://cultureandcommunication.org/deadmedia/index.php/Language_of_Flowers). I understand why this medium appeals to students, but it appeals _so very much_ to students that every single semester I have given this assignment at least one group—and sometimes more than one group!—chooses it. To be frank, I just need a break.
-
-#### Group Signup & Medium Claim
-
-You should work to find a partner for this project as soon as possible. If you are having trouble finding someone, let me know and I can help. Once you have a parter, choose a medium and then [use this form](https://docs.google.com/spreadsheets/d/12AtpekL4X93_OwXT9_FxoP551DiikVKcNwT2Aka28fg/edit?usp=sharing) to let me know who's in your team and to claim your medium. If someone else has already chosen your medium, you'll need to pick again—we don't want repeats during the poster session.
-
-#### The Poster
-
-You will prepare a conference-style poster to present your “dead medium” to your classmates and instructor. If you’ve never created a research poster, consult the references on [the “poster session” Wikipedia page](http://en.wikipedia.org/wiki/Poster_session) for writing and design tips. Your poster should address on the following questions:
-
-1. How did this medium build on, innovate, diverge, or respond to earlier media? What precisely was new about it when it was the “new medium?” Remember that for contemporaneous people, these media were every bit as strange, exciting, or terrifying as the most cutting edge advances are to us today.
-2. What were the cultural effects of this medium during its heyday? Did it produce substantive changes in domestic life, politics, art, or other spheres? Were there cultural changes its creators sought, either successfully or unsuccessfully, to institute through the medium?
-3. Were there competing media that attempted to meet the same needs or fill the same niche as your chosen medium? How did this competition play out?
-4. How and why did your medium decline in importance?
-5. What were the lasting effects or products of your medium? Was it a media “dead end” or did new media evolve from it? How does your medium linger in descendants, images, memory, or language?
-
-You should not attempt on your poster to tell us everything that you might say about your chosen medium in a written paper, nor explain its every nuance. When designing your poster, think CONCISE, INFORMATIVE, and CREATIVE. Students often choose to create a model or interactive aspect to their poster to help their colleagues understand their medium. The idea here is that the form’s restriction (paradoxically) promotes your creativity, as some might argue the formal restrictions of certain poetic forms force the poet toward ever-more-deft feats of language. You will have ample opportunity during the poster session to share more details and anecdotes from your research than you can fit onto your poster (or into your model) itself.
-
----
+<center>☞ ---- ☜</center>
 
 ## 3. Final Book Project
 
@@ -80,7 +66,7 @@ You should not attempt on your poster to tell us everything that you might say a
 
 + An original bookish object project students will conceive, develop, and produce over the semester
 + Students work individually or collaboratively
-+ Proposal due March 20, prototype due April 10
++ Proposal due March 22, prototype due April 12
 * Project & artist's statement due by showcase on Monday, April 29
 
 ### Acknowledgment
@@ -107,9 +93,9 @@ Below are some general design models you could consider adopting, but other mode
 
 This project will be your cultimating intellectual contribution to BookLab. In order to ensure you fully develop your idea, we will observe several milestones throughout the semester. The due dates listed here are the latest possible dates for each milestone, but you are free to submit each earlier, particularly if you anticipate revisions.
 
-##### 1. Proposal: Wednesday, March 20
+##### 1. Proposal: Friday, March 22
 
-By Wednesday, March 20—essentially, just after spring break—you will submit a proposal outlining the book project you hope to complete, as well as the steps required to do so. Each proposal should describe:
+By Friday, March 22 you will submit a proposal outlining the book project you hope to complete, as well as the steps required to do so. Each proposal should describe:
 
 1.  The content of your book. What will it be about?
 2.  The format of your book. Will it be printed and bound? A zine? An ebook? A hybrid? Something else?
@@ -121,9 +107,9 @@ By Wednesday, March 20—essentially, just after spring break—you will submit 
 
 We will discuss your proposals together in order to ensure they are well defined and scoped appropriately. All proposals need to be accepted before you move on to the next stage of development.
 
-##### 2. Prototype: Wednesday, April 10
+##### 2. Prototype: Friday, April 12
 
-By Wednesday, April 10 you will submit a prototype demonstrating the viability of your project proposal. What you will submit during the prototype stage will vary widely by project, but it should essentially be a proof of concept: evidence that the plan you outlined in your proposal is feasible and that you are on track toward completion. Among other possibilities, you might submit:
+By Friday, April 12 you will submit a prototype demonstrating the viability of your project proposal. What you will submit during the prototype stage will vary widely by project, but it should essentially be a proof of concept: evidence that the plan you outlined in your proposal is feasible and that you are on track toward completion. Among other possibilities, you might submit:
 
 1.  A few pages from a longer analog project in process
 2.  A set of conceptual drawings or wireframes illustrating your progress
@@ -166,6 +152,6 @@ To let me know whether you are comfortable with this kind of sharing, please inc
 > ——————————————————
 > Signature/ Date
   
-###### Final Project Showcase
+###### BookLab Exhibit
 
 On the last day of class you will share your projects with each other and interested members of the campus community. We will discuss this event in more detail as the end of the semester approaches, but it will take the rough form of a poster presentation
