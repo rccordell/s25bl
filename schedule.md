@@ -11,7 +11,7 @@ The penumbral readings try to capture a broader set of brilliant readings pertin
 
 <center><hr></center>
 
-<center><h1># Chapter 1: Substrate</center></h1>
+# Chapter 1: Substrate
 
 ## ¶ January 22 ☞ Media
 
@@ -54,7 +54,7 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library for a s
 
 <center><hr></center>
 
-<center><h1>Chapter 2: Platform</center></h1>
+# Chapter 2: Platform
 
 To prepare for our labs in the coming weeks, you should choose one of the definitions of "the book" Amaranth Borsuk compiled from scholars, artists, writers, and many others when writing _The Book_. Find a definition that resonates with your own understandings of and ambitions for the book: one that feels somehow meaningful to you. The <https://t-h-e-b-o-o-k.com/> website does not work well anymore, but is [archived through the Wayback Machine](https://web.archive.org/web/20210301122906/https://t-h-e-b-o-o-k.com/definitions/), where the collected definitions are easier to browse.
 
@@ -126,7 +126,7 @@ To prepare for our labs in the coming weeks, you should choose one of the defini
 
 <center><hr></center>
 
-<center><h1>Chapter 3: Format</center></h1>
+# Chapter 3: Format
 
 ## ¶ February 26 ☞ Experiment
 
@@ -221,7 +221,7 @@ _Visiting expert Professor Bea Nettles_
 
 <center><hr></center>
 
-<center><h1>Chapter 4: Interface</center></h1>
+# Chapter 4: Interface
 
 ## ¶ April 1: Modality
 
@@ -292,7 +292,7 @@ _Visiting expert Professor Bea Nettles_
 
 <center><hr></center>
 
-<center><h1>Coda: Memory</center></h1>
+# Coda: Memory
 
 ## ¶ April 22 ☞ Etaoin
 
