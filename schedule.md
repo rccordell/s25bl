@@ -9,11 +9,11 @@ Each week there are readings listed under _Core_ and _Penumbra_. The core readin
 
 The penumbral readings try to capture a broader set of brilliant readings pertinent to each week's theme that I could not require because time is, sadly, finite. Each week you should choose (at least) one of the penumbral readings, based on your own interests, to read and be prepared to reference as a means of expanding our conversation together. The penumbral readings are organized by publication date, not priority, so you should not feel compelled to choose the first one each week. Find one to read that genuinely sparks your interest!
 
-<center>☞ ---- ☜</center>
+<center>☞ ----- ☜</center>
 
-# Chapter 1 ❧ Substrate
+# Chapter 1: Substrate
 
-## ¶ January 22: Media
+## ¶ January 22 ❧ Media
 
 ### Core
 
@@ -32,7 +32,7 @@ The penumbral readings try to capture a broader set of brilliant readings pertin
 
 <center>-----</center>
 
-## ¶ January 29: Page
+## ¶ January 29 ❧ Page
 
 _**On Location**: Meet at Rare Books and Manuscripts in the Main Library for a session with Cait Coker_
 
@@ -52,13 +52,13 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library for a s
 
 ### Book Lab: Rarely Reading
 
-<center>☞ ---- ☜</center>
+<center>☞ ----- ☜</center>
 
-# Chapter 2 ❧ Platform
+# Chapter 2: Platform
 
 To prepare for our labs in the coming weeks, you should choose one of the definitions of "the book" Amaranth Borsuk compiled from scholars, artists, writers, and many others when writing _The Book_. Find a definition that resonates with your own understandings of and ambitions for the book: one that feels somehow meaningful to you. The <https://t-h-e-b-o-o-k.com/> website does not work well anymore, but is [archived through the Wayback Machine](https://web.archive.org/web/20210301122906/https://t-h-e-b-o-o-k.com/definitions/), where the collected definitions are easier to browse.
 
-## ¶ February 5: Print
+## ¶ February 5 ❧ Print
 
 ### Core 
 
@@ -82,7 +82,7 @@ To prepare for our labs in the coming weeks, you should choose one of the defini
 
 <center>-----</center>
 
-## ¶ February 12: Information
+## ¶ February 12 ❧ Information
 
 ### Core
 
@@ -103,7 +103,7 @@ To prepare for our labs in the coming weeks, you should choose one of the defini
 
 <center>-----</center>
 
-## ¶ February 19: Network
+## ¶ February 19 ❧ Network
 
 ### Core
 
@@ -124,11 +124,11 @@ To prepare for our labs in the coming weeks, you should choose one of the defini
 
 ### Book Lab: A Pressing Matter / Many Happy Returns
 
-<center>☞ ---- ☜</center>
+<center>☞ ----- ☜</center>
 
-# Chapter 3 ❧ Format
+# Chapter 3: Format
 
-## ¶ February 26: Experiment
+## ¶ February 26 ❧ Experiment
 
 _**On Location**: Meet at Rare Books and Manuscripts in the Main Library for a session with Cait Coker_
 
@@ -152,7 +152,7 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library for a s
 
 <center>-----</center>
 
-## ¶ March 4: Remediation
+## ¶ March 4 ❧ Remediation
 
 ### Core
 
@@ -174,11 +174,11 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library for a s
 
 <center>-----</center>
 
-## March 9-17: Spring Break
+## March 9-17 ❧ Spring Break
 
 <center>-----</center>
 
-## ¶ March 18: Process
+## ¶ March 18 ❧ Process
 
 ### Core:
 
@@ -201,11 +201,11 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library for a s
 
 <center>-----</center>
 
-## Friday, March 22: Book Proposal DUE
+## Friday, March 22 ❧ Book Proposal DUE
 
 <center>-----</center>
 
-## ¶ March 25: Binding
+## ¶ March 25 ❧ Binding
 
 _Visiting expert Professor Bea Nettles_
 
@@ -221,9 +221,9 @@ _Visiting expert Professor Bea Nettles_
 
 <center>☞ ---- ☜</center>
 
-# Chapter 4 ❧ Interface
+# Chapter 4: Interface
 
-## ¶ April 1: 
+## ¶ April 1: Modality
 
 + Octave Uzanne, "The End of Books" (1894), [external link](https://archive.org/details/TheEndOfBooks/mode/2up)
 + Amaranth Borsuk, ["The Book as Interface"](https://ebookcentral.proquest.com/lib/uiuc/reader.action?docID=5376610) from _The Book_ (2018), [library link](https://ebookcentral.proquest.com/lib/uiuc/detail.action?docID=5376610)
@@ -243,7 +243,7 @@ _Visiting expert Professor Bea Nettles_
 
 <center>-----</center>
 
-## ¶ April 8: Data
+## ¶ April 8 ❧ Data
 
 ### Core
 
@@ -267,11 +267,11 @@ _Visiting expert Professor Bea Nettles_
 
 <center>-----</center>
 
-## Friday, April 12: Book Prototype DUE
+## Friday, April 12 ❧ Book Prototype DUE
 
 <center>-----</center>
   
-## ¶ April 15: Code
+## ¶ April 15 ❧ Code
 
 ### Core
 
@@ -292,9 +292,9 @@ _Visiting expert Professor Bea Nettles_
 
 <center>☞ ---- ☜</center>
 
-# Coda ❧ Memory
+# Coda: Memory
 
-## ¶ April 22: Etaoin
+## ¶ April 22 ❧ Etaoin
 
 ### Core
 
@@ -305,4 +305,4 @@ _Visiting expert Professor Bea Nettles_
 
 <center>-----</center>
 
-## Monday, April 29 | BookLab Exhibit
+## Monday, April 29 ❧ BookLab Exhibit
