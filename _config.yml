@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "BookLab"
 email: rcordell@illinois.edu
-description: "BookLab: Print to Programming" is an applied, comparative history of new media from the hand-press period to the present.
+description: "BookLab: Print to Programming is an applied, comparative history of new media from the hand-press period to the present."
 baseurl: "" 
 url: "https://s24bl.ryancordell.org" 
 icon: /assets/images/lighttype512.png
