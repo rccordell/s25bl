@@ -13,6 +13,8 @@ The penumbral readings try to capture a broader set of brilliant readings pertin
 
 # Chapter 1: Substrate
 
+Our first unit introduces Whitney Trettien's framework for comparative historical media studies, ["Substrate, Platform, Interface, Format,"](https://www.jstor.org/stable/48736944) which structures the rest of the syllabus. We then consider the substrate—the base material layer—from the print to the digital age.
+
 ## ¶ January 22 ☞ Media
 
 ### Core
@@ -55,6 +57,8 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library for a s
 <center><hr></center>
 
 # Chapter 2: Platform
+
+Our second unit focuses on the platform, or the linked systems of technology and people that circumscribe the affordances and limitations of distinct media.
 
 To prepare for our labs in the coming weeks, you should choose one of the definitions of "the book" Amaranth Borsuk compiled from scholars, artists, writers, and many others when writing _The Book_. Find a definition that resonates with your own understandings of and ambitions for the book: one that feels somehow meaningful to you. The <https://t-h-e-b-o-o-k.com/> website does not work well anymore, but is [archived through the Wayback Machine](https://web.archive.org/web/20210301122906/https://t-h-e-b-o-o-k.com/definitions/), where the collected definitions are easier to browse.
 
@@ -127,6 +131,8 @@ To prepare for our labs in the coming weeks, you should choose one of the defini
 <center><hr></center>
 
 # Chapter 3: Format
+
+Our third unit focuses on format, or the particular material arrangement of media forms that enable them to interact—or conflict—with particular platforms.
 
 ## ¶ February 26 ☞ Experiment
 
@@ -222,6 +228,8 @@ _Visiting expert Professor Bea Nettles_
 <center><hr></center>
 
 # Chapter 4: Interface
+
+Our final unit focuses on interface, or the contact zones between media, their creators, and their users.
 
 ## ¶ April 1: Modality
 
