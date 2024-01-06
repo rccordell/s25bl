@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "BookLab: Print to Programming"
+title: "BookLab"
 email: rcordell@illinois.edu
-description: An applied, comparative history of new media from the hand-press period to the present, drawing on scholarship in book history, bibliography, information science, media studies, and digital humanities.
+description: "BookLab: Print to Programming" is an applied, comparative history of new media from the hand-press period to the present.
 baseurl: "" 
 url: "https://s24bl.ryancordell.org" 
 icon: /assets/images/lighttype512.png
