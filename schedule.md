@@ -27,6 +27,7 @@ Our first unit introduces Whitney Trettien's framework for comparative historica
 + Marshall McLuhan, “The Medium is the Message” (1964), [library link](http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.3366/j.ctvxcrv1h.6)
 + Lisa Gitelman, "Introduction: Media as Historical Subjects," from _Always Already New: Media, History, and the Data of Culture_ (2006), [library link](https://doi-org.proxy2.library.illinois.edu/10.7551/mitpress/1208.003.0003)
 + Alan Liu, "Imagining the New Media Encounter" (2008), [external link](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405148641/9781405148641.xml&chunk.id=ss1-3-1&toc.depth=1&toc.id=ss1-3-1&brand=9781405148641_brand)
++ Tara Brabazon, “Dead Media: Obsolescence and Redundancy in Media History” (2013), [external link](https://journals.uic.edu/ojs/index.php/fm/article/view/4466/3701) 
 + N. Katherine Hayles and Jessica Pressman, "Making, Critique: A Media Framework," introduction to _Comparative Textual Media_ (2013), [library link](http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.5749/j.ctt5hjjtq.3)
 + Mark Alan Mattes, “Media” (2018), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/707746)
 
@@ -92,7 +93,7 @@ To prepare for our labs in the coming weeks, you should choose one of the defini
 
 + Ann Blair, "Information Management in Comparative Perspective" from _Too Much To Know: Managing Scholarly Information before the Modern Age_ (2010), [library link](https://www.jstor.org/stable/j.ctt1nptsm.7)
 + Lindsay Rose Russell, "Walking Dictionary, Sleeping Dictionary" from _Women and Dictionary-Making_ (2018), [library link](https://www-cambridge-org.proxy2.library.illinois.edu/core/books/women-and-dictionarymaking/walking-dictionary-sleeping-dictionary/C2515D661CCCBA0A7D887CAE4EE7FB96?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark)
-+ Kate Crawford and Vladan Joler, “Anatomy of an AI System: The Amazon Echo As An Anatomical Map of Human Labor” (2018), [external link](https://anatomyof.ai/)
++ Rachel Sagner Buurma, "Indexed" from _The Unfinished Book_ (2021), [library link](https://www-oxfordhandbooks-com.proxy2.library.illinois.edu/view/10.1093/oxfordhb/9780198830801.001.0001/oxfordhb-9780198830801-e-27)
 
 ### Penumbra
 
@@ -101,7 +102,7 @@ To prepare for our labs in the coming weeks, you should choose one of the defini
 + Lisa Gitelman, "Print Culture (Other Than Codex): Job Printing and Its Importance" from _Comparative Textual Media_ (2013), [library link](http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.5749/j.ctt5hjjtq.3)
 + Molly O’Hagan Hardy, "'Black Printers' on White Cards: Information Architecture in the Data Structures of the Early American Book Trades," from _Debates in the Digital Humanities 2016_ (2016), [external link](http://dhdebates.gc.cuny.edu/debates/text/82)
 + Matthew P. Brown, "Blanks: Data, Method, and the British American Print Shop" (2017), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/659831)
-+ Rachel Sagner Buurma, "Indexed" from _The Unfinished Book_ (2021), [library link](https://www-oxfordhandbooks-com.proxy2.library.illinois.edu/view/10.1093/oxfordhb/9780198830801.001.0001/oxfordhb-9780198830801-e-27)
++ Andrew Piper, Chad Wellmon, and Mohamed Cheriet, "The Page Image: Towards a Visual History of Digital Documents" (2020), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/770717)
 
 ### Book Lab: A Pressing Matter / Many Happy Returns
 
@@ -119,12 +120,11 @@ To prepare for our labs in the coming weeks, you should choose one of the defini
 
 + Stuart McKee, "How Print Culture Became Indigenous" (2010), [external link](https://s3-us-west-2.amazonaws.com/visiblelanguage/pdf/44.2/how-print-culture-came-to-be-indigenous.pdf)
 + Lara Langer Cohen, "Notes from the State of Saint Domingue: The Practice of Citation in Clotel," from _Early African American Print Culture_ (2012), [library link](http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/j.ctt3fhdr3.12)
-+ Elyse Graham, "The Printing Press as Metaphor" (2016), [external link](http://www.digitalhumanities.org/dhq/vol/10/3/000264/000264.html)
 + Paul Erickson, "The Business of Building Books" (2017), [external link](http://commonplace.online/article/business-building-books/)
 + Brigitte Fielder and Jonathan Senchyne, "Introduction: Infrastructures of African American Print" from _Against a Sharp White Background: Infrastructures of African American Print_ (2019), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/chapter/2296781/pdf)
 + Matthew G. Kirschenbaum, “Bibliologistics: The Nature of Books Now, or A Memorable Fancy” (2020), [external link](https://post45.org/2020/04/bibliologistics-the-nature-of-books-now-or-a-memorable-fancy/)
 + Derrick R. Spires, "Order and Access: Dorothy Porter and the Mission of Black Bibliography" (2022), [library link](https://www-journals-uchicago-edu.proxy2.library.illinois.edu/doi/10.1086/719973)
-
++ James Dobson and Scott Sanders, "Distant Approaches to the Printed Page" (2022), [external link](https://www.digitalstudies.org/article/id/8107/)
 
 ### Book Lab: A Pressing Matter / Many Happy Returns
 
@@ -199,9 +199,7 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library for a s
 + Library of Congress Format Blog posts:
     + Kate Murray, Marcus Nappier, and Liz Holdzkom, “Fun with File Formats" (2021), [external link](https://blogs.loc.gov/thesignal/2021/12/fun-with-file-formats/)
     + Jacob Kowall and Hillary Szu Yin Shiue, “All Hyped Up for HyperCard: Further Adventures with an Apple Legacy Format" (2021), [external link](https://blogs.loc.gov/thesignal/2021/07/all-hyped-up-for-hypercard-further-adventures-with-an-apple-legacy-format/)
-+ Gabi Kirilloff, "Computation as Context: New Approaches to the Close/Distant Reading Debate" (2022), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/844432)
 + James A. Hodges, "Forensic Approaches to Evaluating Primary Sources in Internet History Research: Reconstructing Early Web-Based Archival Work (1989–1996)" (2021), [library link](https://www-tandfonline-com.proxy2.library.illinois.edu/doi/full/10.1080/24701475.2020.1784539)
-+ James A. Hodges and Ciaran B. Trace, “Preserving Algorithmic Systems: A Synthesis of Overlapping Approaches, Materialities and Contexts,” _Journal of Documentation_ (2023), [library link](https://www-emerald-com.proxy2.library.illinois.edu/insight/content/doi/10.1108/JD-09-2022-0204/full/html)
 
 ### Book Lab: Thoroughly Entwined
 
@@ -225,6 +223,8 @@ _Visiting expert Professor Bea Nettles_
 + Sarah Werner, "Binding" from _Studying Early Printed Books, 1450-1800 : A Practical Guide_ (2019), [library link](http://www.library.illinois.edu.proxy2.library.illinois.edu/proxy/go.php?url=https://search-ebscohost-com.proxy2.library.illinois.edu/login.aspx?direct=true&db=nlebk&AN=1991322&site=eds-live&scope=site&ebv=EK&ppid=Page-__-76)
 + Barbara Heritage and Ruth-Ellen St. Onge, “Bookbindings Before 1800, “Bookbinding Tools, Stamps, Dies, Leather, and Cloth,” and “Bookbindings After 1800” from the “Building the Book from the Ancient World to the Present Day” Exhibition, [external link](https://grolierclub.omeka.net/exhibits/show/rare-book-school)
 
+### Book Lab : A Stitch In Time
+
 <center><hr></center>
 
 # Chapter 4: Interface
@@ -241,9 +241,9 @@ Our final unit focuses on interface, or the contact zones between media, their c
 
 + Steven Lubar, "'Do Not Fold, Spindle or Mutilate': A Cultural History of the Punch Card" (1992), [library link](https://onlinelibrary-wiley-com.proxy2.library.illinois.edu/doi/epdf/10.1111/j.1542-734X.1992.1504_43.x)
 + Sydney Shep, "'Smiley, you’re on candid camera': Emoticons & Pre-Digital Networks" (2010), [external link](https://www.erudit.org/en/journals/memoires/2010-v2-n1-memoires3974/045315ar/)
-+ Tara Brabazon, “Dead Media: Obsolescence and Redundancy in Media History” (2013), [external link](https://journals.uic.edu/ojs/index.php/fm/article/view/4466/3701) 
 + Lori Emerson, "Indistinguishable from Magic: Invisible Interfaces and Digital Literature as Demystifier" from _Reading Writing Interfaces: From the Digital to the Bookbound_ (2014), [library link](https://www-jstor-org.proxy2.library.illinois.edu/stable/10.5749/j.ctt6wr7dw)
 + Craig Mod, "Future Reading" (2015), [external link](https://aeon.co/essays/stagnant-and-dull-can-digital-books-ever-replace-print)
++ David C. Zentgraf, "What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text" (2015), [external link](https://kunststube.net/encoding/)
 + Sarah Well, "The Forgotten History of the Blinking Curso▒" (2021), [external link](https://www.inverse.com/innovation/blinking-cursor-history)
 + Klint Finley, "What We Can Learn from Vintage Computing" (2022), [external link](https://github.com/readme/featured/vintage-computing?mc_cid=72e109b22c)
 
@@ -255,21 +255,19 @@ Our final unit focuses on interface, or the contact zones between media, their c
 
 ### Core
 
-+ Katie Rawson and Trevor Muñoz, "Against Cleaning" (2016), [external link](http://curatingmenus.org/articles/against-cleaning/)
-+ Kandice Sharren, Kate Ozment, and Michelle Levy, "Gendering Digital Bibliography with the _Women’s Print History Project_" (2021), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/802446)
-+ Sonya Donaldson, "The Ephemeral Archive: Unstable Terrain in Times and Sites of Discord" (2021), [external link](https://dhdebates.gc.cuny.edu/read/the-digital-black-atlantic/section/b5c2c6f7-c1a2-4645-8cf7-9d5cc70aa019##ch02)
++ Richard Jean So, “All Models are Wrong” (2017), [library link](http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/27037381)
++ Katherine Bode, "Abstraction, Singularity, Textuality: The Equivalence of 'Close' and 'Distant' Reading" from _A World of Fiction_ (2018), [library link](https://www-jstor-org.proxy2.library.illinois.edu/stable/j.ctvdtpj1d.5?seq=3#metadata_info_tab_contents)
++ Melanie Walsh and Maria Antoniak, “The Goodreads ‘Classics’: A Computational Study of Readers, Amazon, and Crowdsourced Amateur Criticism” (2021), [external link](https://post45.org/2021/04/the-goodreads-classics-a-computational-study-of-readers-amazon-and-crowdsourced-amateur-criticism/)
 
 ### Penumbra
 
-+ Michael Whitmore, "Text: A Massively Addressable Object," from _Debates in the Digital Humanities_ (2012), [external link](http://dhdebates.gc.cuny.edu/debates/text/28)
-+ David C. Zentgraf, "What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text" (2015), [external link](https://kunststube.net/encoding/)
-+ Barnard, Megan and Gabriela Redwine. “Collecting Digital Manuscripts and Archives” (2016), [external link](https://www2.archivists.org/sites/all/files/Module_15_CaseStudy2_Barnard-Redwine.pdf)
++ Katie Rawson and Trevor Muñoz, "Against Cleaning" (2016), [external link](http://curatingmenus.org/articles/against-cleaning/)
++ Benjamin M. Schmidt, "Do Humanists Need to Understand Algorithms?" from _Debates in Digital Humanities 2016_ (2016), [external link](http://dhdebates.gc.cuny.edu/debates/text/99)
 + Ryan Cordell, "'Q i-jtb the Raven': Taking Dirty OCR Seriously" (2017), [external link](https://ryancordell.org/research/qijtb-the-raven/)
-+ Andrew Piper, Chad Wellmon, and Mohamed Cheriet, "The Page Image: Towards a Visual History of Digital Documents" (2020), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/770717)
++ Gabi Kirilloff, "Computation as Context: New Approaches to the Close/Distant Reading Debate" (2022), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/844432)
++ Rachael Scarborough King, "The Scale of Genre" (2021), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/802091)
 + Cassidy Holahan, "Rummaging in the Dark: ECCO as Opaque Digital Archive" (2021), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/802443)
 + Hazel Wilkinson, James Briggs, and Dirk Gorissen, "Computer Vision and the Creation of a Database of Printers’ Ornaments" (2021), [external link](https://www.digitalhumanities.org/dhq/vol/15/1/000537/000537.html)
-+ Melanie Walsh, "Where is All the Book Data?" (2022), [external link](https://www.publicbooks.org/where-is-all-the-book-data/)
-+ Gerben Zaagsma, "Digital History and the Politics of Digitization" (2022), [library link](https://doi-org.proxy2.library.illinois.edu/10.1093/llc/fqac050)
 
 ### Book Lab: Speed Data-ing
 
@@ -279,24 +277,24 @@ Our final unit focuses on interface, or the contact zones between media, their c
 
 <center>-----</center>
   
-## ¶ April 15 ☞ Code
+## ¶ April 15 ☞ Generative
 
 ### Core
 
-+ Katherine Bode, "Abstraction, Singularity, Textuality: The Equivalence of 'Close' and 'Distant' Reading" from _A World of Fiction_ (2018), [library link](https://www-jstor-org.proxy2.library.illinois.edu/stable/j.ctvdtpj1d.5?seq=3#metadata_info_tab_contents)
-+ Melanie Walsh and Maria Antoniak, “The Goodreads ‘Classics’: A Computational Study of Readers, Amazon, and Crowdsourced Amateur Criticism” (2021), [external link](https://post45.org/2021/04/the-goodreads-classics-a-computational-study-of-readers-amazon-and-crowdsourced-amateur-criticism/)
++ Kate Crawford and Vladan Joler, “Anatomy of an AI System: The Amazon Echo As An Anatomical Map of Human Labor” (2018), [external link](https://anatomyof.ai/)
++ selections from Janelle Shane, *You Look Like a Thing and I Love You* (2021), [Canvas link](https://s24wwr.ryancordell.org/syllabus/schedule)
++ Sarah Bull, “Content Generation in the Age of Mechanical Reproduction” (2023), [Canvas link](https://canvas.illinois.edu/courses/42143/files?preview=11091850)
 
 ### Penumbra
 
 + Roberto Busa, "Why Can a Computer Do So Little?" (1976), [canvas link](https://canvas.illinois.edu/courses/32809/files/folder/Readings?preview=7831921)
-+ Stephen Ramsay, "An Algorithmic Criticism" and "Potential Readings" from _Reading Machines: Toward an Algorithmic Criticism_ (2011), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/book/18394)
-+ Benjamin M. Schmidt, "Do Humanists Need to Understand Algorithms?" from _Debates in Digital Humanities 2016_ (2016), [external link](http://dhdebates.gc.cuny.edu/debates/text/99)
-+ Hannah Alpert-Abrams, "Machine Reading the _Primeros Libros_" (2016), [external link](http://www.digitalhumanities.org/dhq/vol/10/4/000268/000268.html)
-+ Richard Jean So, “All Models are Wrong” (2017), [library link](http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/27037381)
-+ Rachael Scarborough King, "The Scale of Genre" (2021), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/802091)
-+ James Dobson and Scott Sanders, "Distant Approaches to the Printed Page" (2022), [external link](https://www.digitalstudies.org/article/id/8107/)
++ Jessica Riskin “Frolicsome Engines: The Long Prehistory of Artificial Intelligence” (2016), [external link](https://publicdomainreview.org/essay/frolicsome-engines-the-long-prehistory-of-artificial-intelligence)
++ Mark Riedl, “An Introduction to AI Story Generation” (2021), [external link](https://thegradient.pub/an-introduction-to-ai-story-generation/)
++ Ted Underwood, “Mapping the Latent Spaces of Culture” (2021), [external link](https://tedunderwood.com/2021/10/21/latent-spaces-of-culture/)
++ Stephen Wolfram, “What is ChatGPT Doing…and Why Does It Work?” (2023), [external link](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
++ James A. Hodges and Ciaran B. Trace, “Preserving Algorithmic Systems: A Synthesis of Overlapping Approaches, Materialities and Contexts,” _Journal of Documentation_ (2023), [library link](https://www-emerald-com.proxy2.library.illinois.edu/insight/content/doi/10.1108/JD-09-2022-0204/full/html)
 
-### Book Lab: Algorithm Nation
+### Book Lab: Automatic. For the People?
 
 <center><hr></center>
 
@@ -308,6 +306,14 @@ Our final unit focuses on interface, or the contact zones between media, their c
 
 + (Watch, ~30 minutes) Carl Schlesinger and David Loeb Weiss, “Farewell etaoin shrdlu” (1978), [external link](https://vimeo.com/127605643)
 + Bethany Nowviskie, “Change Us, Too” (2019), [external link](http://nowviskie.org/2019/change-us-too/)
++ Sonya Donaldson, "The Ephemeral Archive: Unstable Terrain in Times and Sites of Discord" (2021), [external link](https://dhdebates.gc.cuny.edu/read/the-digital-black-atlantic/section/b5c2c6f7-c1a2-4645-8cf7-9d5cc70aa019##ch02)
+
+### Penumbra
+
++ Barnard, Megan and Gabriela Redwine. “Collecting Digital Manuscripts and Archives” (2016), [external link](https://www2.archivists.org/sites/all/files/Module_15_CaseStudy2_Barnard-Redwine.pdf)
++ Elyse Graham, "The Printing Press as Metaphor" (2016), [external link](http://www.digitalhumanities.org/dhq/vol/10/3/000264/000264.html)
++ Kandice Sharren, Kate Ozment, and Michelle Levy, "Gendering Digital Bibliography with the _Women’s Print History Project_" (2021), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/802446)
++ Melanie Walsh, "Where is All the Book Data?" (2022), [external link](https://www.publicbooks.org/where-is-all-the-book-data/)
 
 ### Book Lab: Open for project work
 
