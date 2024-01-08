@@ -31,7 +31,7 @@ Particularly in a graduate class, students are often tempted to write 3 lengthy 
 
 I will not collect your discussion prep each week. This does not mean, however, that you should keep your discussion prep in your mind or try to wing it—I do expect you to write your prep down before class, in either a physical or digital notebook. You should be prepared to reference your prep directly when asked during discussion or when it is pertinent to in-class group work, or to show your prep notebook to me on request.
 
-<center>☞ ---- ☜</center>
+<center><hr></center>
 
 ## 2. Book Reports
 
@@ -47,18 +47,18 @@ I will not collect your discussion prep each week. This does not mean, however, 
 
 As the semester progresses, you will use our readings, class discussions, archival visits, labs, and other activities to develop an understanding of the book as a synecdoche for larger structures of information and media. You will reflect on these connections in a series of four "book reports"—one for each chapter/unit of the class (save the Coda). 
 
-Book reports should aim for more substance and detail than a typical class forum response, but they are not full-fledged academic essays. Think instead of smart, critical writing you might encounter online: a blog entry or a sharp opinion piece. You can choose your focus for each, drawing on the readings and activities of the relevant chapter/unit of the class. Reports should synthesize and bring unit readings into conversation, and focus on developing an argument around a few core ideas. You should not spend words summarizing readings or recounting discussions from class, but instead choosing details that help illustrate your own ideas. 
+Book reports should aim for more substance and detail than a typical class forum response, but they are not full-fledged academic essays. Think instead of smart, critical writing you might encounter online: a blog entry or a sharp opinion piece. You can choose your focus for each, drawing on the readings and activities of the relevant chapter/unit of the class. Reports should synthesize and bring unit readings into conversation, and focus on developing an argument around a few core themes or ideas. You should not spend words summarizing readings or recounting discussions from class, but instead choosing details that help illustrate your own ideas. 
 
-Remember what [Judge John Hodgman](https://maximumfun.org/podcasts/judge-john-hodgman/) frequently reminds his listeners, “specificity is the soul of narrative.” Avoid broad generalizations and instead use these book reports to delve into your own corners of intellectual interest. You might cite a specific idea from one of your colleagues as evidence, and you should absolutely cite specific insights from our readings—I would in fact encourage to quote and cite regularly. You should highlight specific ways that our activities brought our readings into relief, or exposed disjunctures between theory and praxis. And you should connect some of our readings, activities, and course themes to texts and ideas you encounter in other classes and contexts.
+Remember what [Judge John Hodgman](https://maximumfun.org/podcasts/judge-john-hodgman/) frequently reminds his listeners, “specificity is the soul of narrative.” Avoid broad generalizations and instead use these book reports to delve into your own corners of intellectual interest. You might cite a specific idea raised by one of your colleagues as evidence, and you should absolutely cite specific insights from our readings—your reports should quote and cite regularly. You should highlight specific ways that our activities brought our readings into relief, or exposed disjunctures between theory and praxis. And you should connect some of our readings, activities, and course themes to texts and ideas you encounter in other classes and contexts.
 
 Each report is due 1 week following the close of the relevant unit. I consider Friday the end of our week, even through we meet Mondays. So the posts will be due:
 
-+ Chapter 1 ❧ Substrate: February 9
-+ Chapter 2 ❧ Platform: March 1
-+ Chapter 3 ❧ Format: April 5
-+ Chapter 4 ❧ Interface: April 26
++ [Chapter 1 ☞ Substrate: February 9](https://canvas.illinois.edu/courses/42143/assignments/881975)
++ [Chapter 2 ☞ Platform: March 1](https://canvas.illinois.edu/courses/42143/assignments/881976)
++ [Chapter 3 ☞ Format: April 5](https://canvas.illinois.edu/courses/42143/assignments/881977)
++ [Chapter 4 ☞ Interface: April 26](https://canvas.illinois.edu/courses/42143/assignments/881978)
 
-<center>☞ ---- ☜</center>
+<center><hr></center>
 
 ## 3. Final Book Project
 
@@ -67,6 +67,7 @@ Each report is due 1 week following the close of the relevant unit. I consider F
 + An original bookish object project students will conceive, develop, and produce over the semester
 + Students work individually or collaboratively
 + Proposal due March 22, prototype due April 12
++ Milestones and artist's statement due through Canvas
 * Project & artist's statement due by showcase on Monday, April 29
 
 ### Acknowledgment
@@ -91,9 +92,9 @@ Below are some general design models you could consider adopting, but other mode
 
 #### Project Milestones
 
-This project will be your cultimating intellectual contribution to BookLab. In order to ensure you fully develop your idea, we will observe several milestones throughout the semester. The due dates listed here are the latest possible dates for each milestone, but you are free to submit each earlier, particularly if you anticipate revisions.
+This project will be your cultimating intellectual contribution to BookLab. In order to ensure you fully develop your idea, we will observe several milestones throughout the semester. The due dates listed here are the latest possible dates for each milestone, but you are free to submit each earlier, particularly if you anticipate revisions. 
 
-##### 1. Proposal: Friday, March 22
+##### [1. Proposal: Friday, March 22](https://canvas.illinois.edu/courses/42143/assignments/881979)
 
 By Friday, March 22 you will submit a proposal outlining the book project you hope to complete, as well as the steps required to do so. Each proposal should describe:
 
@@ -107,7 +108,7 @@ By Friday, March 22 you will submit a proposal outlining the book project you ho
 
 We will discuss your proposals together in order to ensure they are well defined and scoped appropriately. All proposals need to be accepted before you move on to the next stage of development.
 
-##### 2. Prototype: Friday, April 12
+##### [2. Prototype: Friday, April 12](https://canvas.illinois.edu/courses/42143/assignments/881980)
 
 By Friday, April 12 you will submit a prototype demonstrating the viability of your project proposal. What you will submit during the prototype stage will vary widely by project, but it should essentially be a proof of concept: evidence that the plan you outlined in your proposal is feasible and that you are on track toward completion. Among other possibilities, you might submit:
 
@@ -117,11 +118,11 @@ By Friday, April 12 you will submit a prototype demonstrating the viability of y
 
 The prototype is due at the mid-point of the project's development from proposal to showcase. The primary goal for the prototype stage is demonstrating steady progress, and ensuring that your plans remain feasible. If your project has significantly shifted from what was proposed and accepted at the proposal stage, the prototype stage will also be the point at which you will submit a revised project proposal.
 
-##### 3. Professor Meeting: Between March 21 and April 22
+##### [3. Professor Meeting: Between March 21 and April 22](https://canvas.illinois.edu/courses/42143/assignments/881981)
 
 Sometime during your work on the project, you (and your collaborators, if relevant) must meet with me individually to discuss your project and progress. You are certainly invited to meet with me more than once, but at least one meeting is required.
 
-##### Final Project: Monday, April 29
+##### [4. Final Project: Monday, April 29](https://canvas.illinois.edu/courses/42143/assignments/881983)
 
 Your project should result in a final object, set of objects, or digital artifact, as well as an artist(s) statement describing what you have accomplished in your project. These will be due a little before the end of the semester, in time for the final project showcase during the last two days of class.
 
