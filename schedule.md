@@ -268,6 +268,7 @@ Our final unit focuses on interface, or the contact zones between media, their c
 + Rachael Scarborough King, "The Scale of Genre" (2021), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/802091)
 + Cassidy Holahan, "Rummaging in the Dark: ECCO as Opaque Digital Archive" (2021), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/802443)
 + Hazel Wilkinson, James Briggs, and Dirk Gorissen, "Computer Vision and the Creation of a Database of Printers’ Ornaments" (2021), [external link](https://www.digitalhumanities.org/dhq/vol/15/1/000537/000537.html)
++ Mia Sato, "The Perfect Web Page" (2024), [external link](https://www.theverge.com/c/23998379/google-search-seo-algorithm-webpage-optimization)
 
 ### Book Lab: Speed Data-ing
 
