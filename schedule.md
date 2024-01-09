@@ -255,14 +255,15 @@ Our final unit focuses on interface, or the contact zones between media, their c
 
 ### Core
 
-+ Richard Jean So, “All Models are Wrong” (2017), [library link](http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/27037381)
 + Katherine Bode, "Abstraction, Singularity, Textuality: The Equivalence of 'Close' and 'Distant' Reading" from _A World of Fiction_ (2018), [library link](https://www-jstor-org.proxy2.library.illinois.edu/stable/j.ctvdtpj1d.5?seq=3#metadata_info_tab_contents)
 + Melanie Walsh and Maria Antoniak, “The Goodreads ‘Classics’: A Computational Study of Readers, Amazon, and Crowdsourced Amateur Criticism” (2021), [external link](https://post45.org/2021/04/the-goodreads-classics-a-computational-study-of-readers-amazon-and-crowdsourced-amateur-criticism/)
++ Lawrence Isaac Evalyn, "Measuring the Uneven Digitization of Historical Literature" (2023), [external link](https://zenodo.org/records/8107978)
 
 ### Penumbra
 
 + Katie Rawson and Trevor Muñoz, "Against Cleaning" (2016), [external link](http://curatingmenus.org/articles/against-cleaning/)
 + Benjamin M. Schmidt, "Do Humanists Need to Understand Algorithms?" from _Debates in Digital Humanities 2016_ (2016), [external link](http://dhdebates.gc.cuny.edu/debates/text/99)
++ Richard Jean So, “All Models are Wrong” (2017), [library link](http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/27037381)
 + Ryan Cordell, "'Q i-jtb the Raven': Taking Dirty OCR Seriously" (2017), [external link](https://ryancordell.org/research/qijtb-the-raven/)
 + Gabi Kirilloff, "Computation as Context: New Approaches to the Close/Distant Reading Debate" (2022), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/844432)
 + Rachael Scarborough King, "The Scale of Genre" (2021), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/802091)
