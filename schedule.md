@@ -182,6 +182,10 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library for a s
 
 ## March 9-17 ☞ Spring Break
 
+## March 14 ☞ Optional Guest Lecture in RBML
+
+If you are free and interested during spring break, Adrian Johns will be giving a virtual lecture on his book, _The Science of Reading and the Making of the Information Society_, that clearly intersects with our course and could provide context for one of your Book Reports. There's[more info and a sign up link](https://calendars.illinois.edu/detail/2169?eventId=33479642) at RBML's site. 
+
 <center>-----</center>
 
 ## ¶ March 18 ☞ Process
