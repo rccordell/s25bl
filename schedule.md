@@ -108,6 +108,12 @@ To prepare for our labs in the coming weeks, you should choose one of the defini
 
 <center>-----</center>
 
+## February 16 ☞ Bonus Riso!
+
+Optional workshop on Risograph printing with [Prof. Will Arnold](https://www.twarnold.com/portfolio/about/. Check out his zines and comics here: <https://www.twarnold.com/portfolio/category/books-zines-cat/>. Hosted at Skeuomorph Press.
+
+<center>-----</center>
+
 ## ¶ February 19 ☞ Network
 
 ### Core
