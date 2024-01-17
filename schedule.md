@@ -146,6 +146,7 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library for a s
 
 ### Core
 
++ Ken Liu, "The Bookmaking Habits of Select Species," (2012), [external link](https://www.lightspeedmagazine.com/fiction/the-bookmaking-habits-of-select-species/)
 + Amaranth Borsuk, [“The Book as Idea”](https://ebookcentral.proquest.com/lib/uiuc/reader.action?docID=5376610&ppg=129) from _The Book_ (2018), [library link](https://ebookcentral.proquest.com/lib/uiuc/detail.action?docID=5376610)
 + Kadin Henningsen, "Making Mary Ann Waters is a Free Black Woman: Critical Fabrication as Bibliographic Method" (2022), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/pub/27/article/899737)
 
