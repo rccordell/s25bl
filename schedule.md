@@ -110,7 +110,7 @@ To prepare for our labs in the coming weeks, you should choose one of the defini
 
 ## February 16 ☞ Bonus Riso!
 
-Optional workshop on Risograph printing with [Prof. Will Arnold](https://www.twarnold.com/portfolio/about/. Check out his zines and comics here: <https://www.twarnold.com/portfolio/category/books-zines-cat/>. Hosted at Skeuomorph Press.
+Optional workshop on Risograph printing with [Prof. Will Arnold](https://www.twarnold.com/portfolio/about/). Check out his zines and comics here: <https://www.twarnold.com/portfolio/category/books-zines-cat/>. Hosted at Skeuomorph Press from 10am-noon. [More info and signup here](https://skeuomorph.ischool.illinois.edu/2024/02/01/riso-workshop-with-will-arnold-feb-16-2024/).
 
 <center>-----</center>
 
