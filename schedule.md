@@ -170,7 +170,7 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library for a s
 ### Core
 
 + Ellen Gruber Garvey, "Introduction" from _Writing with Scissors_ (2012), [external link](https://www.google.com/books/edition/Writing_with_Scissors/HNcwsH_5k0AC?hl=en&gbpv=1&pg=PA3&printsec=frontcover)
-+ Zine Librarians' Code of Ethics (2015), [external link](http://zinelibraries.info/wordpress/wp-content/uploads/2015/11/EthicsZine-rev-20151105.pdf), and also browse the [_Queer Zine Archive Project_ blog](https://www.qzap.org/v9/index.php) and its [zine archive](https://archive.qzap.org/)
++ Zine Librarians' Code of Ethics (2015), [external link](https://www.zinelibraries.info/code-of-ethics/), and also browse the [_Queer Zine Archive Project_ blog](https://gittings.qzap.org/) and its [zine archive](https://archive.qzap.org/)
 + Lori Emerson, "Media Archaeology Lab as Platform for Undoing and Reimagining Media History" (2023), [external link](https://loriemerson.net/2019/10/16/media-archaeology-lab-as-platform-for-undoing-and-reimagining-media-history/)
   
 ### Penumbra
