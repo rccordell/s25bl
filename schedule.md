@@ -258,7 +258,7 @@ Our final unit focuses on interface, or the contact zones between media, their c
 + Sarah Well, "The Forgotten History of the Blinking Curso▒" (2021), [external link](https://www.inverse.com/innovation/blinking-cursor-history)
 + Klint Finley, "What We Can Learn from Vintage Computing" (2022), [external link](https://github.com/readme/featured/vintage-computing?mc_cid=72e109b22c)
 
-### Book Lab: Open for project work
+### Book Lab: Book artist Charlie Wisseman Visit
 
 <center>-----</center>
 
