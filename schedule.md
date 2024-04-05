@@ -295,7 +295,7 @@ Our final unit focuses on interface, or the contact zones between media, their c
 ### Core
 
 + Kate Crawford and Vladan Joler, “Anatomy of an AI System: The Amazon Echo As An Anatomical Map of Human Labor” (2018), [external link](https://anatomyof.ai/)
-+ I couldn't get a digital copy of Janelle Shane's wonderful book, *You Look Like a Thing and I Love You* (2021), so please [watch this book talk](https://www.youtube.com/watch?v=2ZiPEOFnK1o) instead. BUT I highly recommend this book.
++ I couldn't get a digital copy of Janelle Shane's wonderful book, *You Look Like a Thing and I Love You* (2021), so please [watch this book talk](https://www.youtube.com/watch?v=2ZiPEOFnK1o) instead. BUT I highly recommend this book and also that you browse Shane's wonderful blog [AI Weirdness](https://www.aiweirdness.com/)
 + Sarah Bull, “Content Generation in the Age of Mechanical Reproduction” (2023), [Canvas link](https://canvas.illinois.edu/courses/42143/files?preview=11091850)
 
 ### Penumbra
