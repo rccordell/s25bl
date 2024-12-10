@@ -48,17 +48,13 @@
 }
 
 .post-link__date {
+  color: $muted-text-color;
   display: block;
-  margin-right: 4em;
-  @media (min-width: $on-tablet) {
+  font-size: 1.2em;
+  white-space: nowrap;
+  text-transform: uppercase;
+  .post-link & {
     padding: .5em 0;
-  }
-  h2 {
-    font-size: 1.2em;
-    color: $muted-text-color;
-    text-transform: uppercase;
-    margin-bottom: 0;
-    margin-top: 0;
   }
 }
 
