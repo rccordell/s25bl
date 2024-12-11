@@ -11,7 +11,7 @@ The penumbral readings try to capture a broader set of brilliant readings pertin
 
 <center><hr></center>
 
-# Chapter 1: Substrate
+# Volume I: Substrate
 
 Our first unit introduces Whitney Trettien's framework for comparative historical media studies, ["Substrate, Platform, Interface, Format,"](https://www.jstor.org/stable/48736944) which structures the rest of the syllabus. We then consider the substrate—the base material layer—from the print to the digital age.
 
