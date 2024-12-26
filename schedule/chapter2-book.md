@@ -4,9 +4,10 @@ permalink: /schedule/02-book/
 layout: post
 ---
 
-## Chapter 2: Book
+# Chapter 2: Book
 
-☞ _February 3, 2025_
+## ☞ February 3, 2025
+
 _**On Location**: Meet at Rare Books and Manuscripts in the Main Library for a session with Cait Coker_
 
 ### Core
