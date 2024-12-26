@@ -4,9 +4,7 @@ permalink: /schedule/01-media/
 layout: post
 ---
 
-# Chapter 1: Media
-
-## ☞ January 27, 2025
+## January 27, 2025
 
 ### Core
 
