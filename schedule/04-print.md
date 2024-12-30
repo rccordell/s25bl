@@ -18,6 +18,7 @@ layout: post
 + ["Learning to Set Type" vocational film](https://youtu.be/AHrLIVeH1KM) (1940s)
 + Marcy J. Dinius, “‘Look!! Look!!! at This!!!!’: The Radical Typography of David Walker’s Appeal” (2011), [resource via library](https://www-cambridge-org.proxy2.library.illinois.edu/core/journals/pmla/article/look-look-at-this-the-radical-typography-of-david-walkers-appeal/F39DE812CB89744C279FE058C9F7140C)
 + Corinna Zeltsman, "Defining Responsibility: Printers, Politics, and the Law in Early Republican Mexico City" (2018), [resource via library](https://read-dukeupress-edu.proxy2.library.illinois.edu/hahr/article/98/2/189/134042/Defining-Responsibility-Printers-Politics-and-the)
++ Juliet S. Sperling, "Image" (2018), [resource via library](https://muse-jhu-edu.proxy2.library.illinois.edu/article/707742)
 + Marcy J. Dinius, "Press" (2018), [resource via library](https://muse-jhu-edu.proxy2.library.illinois.edu/article/707752)
 
 

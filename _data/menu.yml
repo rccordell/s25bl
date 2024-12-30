@@ -1,14 +1,11 @@
 - title: Syllabus
-  url: /syllabus.html
+  url: /pages/syllabus.html
   
 - title: Assignments
-  url: /assignments.html
+  url: /pages/assignments.html
 
 - title: Assessment
-  url: /assessment.html
-
-- title: Schedule
-  url: /schedule.html
+  url: /pages/assessment.html
 
 - title: Source
   url: https://github.com/rccordell/s23bl

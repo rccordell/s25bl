@@ -1,10 +1,10 @@
 ---
-title: "Chapter 2: Book"
-permalink: /schedule/02-book/
+title: "Chapter 3: Book"
+permalink: /schedule/03-book/
 layout: post
 ---
 
-## February 3, 2025
+## February 10, 2025
 
 ☞ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library for a session with Cait Coker_
 

@@ -14,12 +14,10 @@ layout: post
 
 ### Penumbra
 
-+ Sydney Shep, "'Smiley, you’re on candid camera': Emoticons & Pre-Digital Networks" (2010), [external website](https://www.erudit.org/en/journals/memoires/2010-v2-n1-memoires3974/045315ar/)
 + Paul Erickson, "The Business of Building Books" (2017), [external website](http://commonplace.online/article/business-building-books/)
 + Tyler Shoemaker, "Error Aligned" (2019), [external website](https://scholarworks.iu.edu/journals/index.php/textual/article/view/27153/32677)
 + (Listen, ~1 hour) RadioLab, "The Wubi Effect" (2020), [external website](https://radiolab.org/podcast/wubi-effect)
++ Emily C. Friedman, "Amateur Manuscript Fiction in the Archives: An Introduction" (2020), [resource via library](https://doi-org.proxy2.library.illinois.edu/10.2307/j.ctvxbpf9s.13)
 + Derrick R. Spires, "Order and Access: Dorothy Porter and the Mission of Black Bibliography" (2022), [resource via library](https://www-journals-uchicago-edu.proxy2.library.illinois.edu/doi/10.1086/719973)
-
-
 
 ### Book Lab: TBD
