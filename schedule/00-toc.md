@@ -44,7 +44,7 @@ The penumbral readings try to capture a broader set of brilliant readings pertin
 | 10 | April 7 | TBD | TBD |
 
 
-## Volume IV: Interface
+## Volume IV: Format
 
 > Our final unit focuses on format, or the particular material arrangement of media forms that enable them to interact—or conflict—with particular platforms and interfaces.
 
@@ -54,50 +54,6 @@ The penumbral readings try to capture a broader set of brilliant readings pertin
 | 12 | April 21 | TBD | TBD |
 | 13 | April 28 | TBD | Project Workshop |
 | 14 | May 5 |  TBD | TBD |
-
-
-## ¶ February 12 ☞ Information
-
-### Core
-
-+ Ann Blair, "Information Management in Comparative Perspective" from _Too Much To Know: Managing Scholarly Information before the Modern Age_ (2010), [resource via library](https://www.jstor.org/stable/j.ctt1nptsm.7)
-+ Lindsay Rose Russell, "Walking Dictionary, Sleeping Dictionary" from _Women and Dictionary-Making_ (2018), [resource via library](https://www-cambridge-org.proxy2.library.illinois.edu/core/books/women-and-dictionarymaking/walking-dictionary-sleeping-dictionary/C2515D661CCCBA0A7D887CAE4EE7FB96?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark)
-+ Rachel Sagner Buurma, "Indexed" from _The Unfinished Book_ (2021), [resource via library](https://www-oxfordhandbooks-com.proxy2.library.illinois.edu/view/10.1093/oxfordhb/9780198830801.001.0001/oxfordhb-9780198830801-e-27)
-
-### Penumbra
-
-+ Vannevar Bush, "As We May Think" (1945), [external website](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
-+ James Gleick, "Two Wordbooks" from _The Information: A History, A Theory, a Flood_ (2011), [Canvas link](https://canvas.illinois.edu/courses/42143/files?preview=11085116)
-+ Molly O’Hagan Hardy, "'Black Printers' on White Cards: Information Architecture in the Data Structures of the Early American Book Trades," from _Debates in the Digital Humanities 2016_ (2016), [external website](http://dhdebates.gc.cuny.edu/debates/text/82)
-+ Matthew P. Brown, "Blanks: Data, Method, and the British American Print Shop" (2017), [resource via library](https://muse-jhu-edu.proxy2.library.illinois.edu/article/659831)
-
-### Book Lab: A Pressing Matter / Many Happy Returns
-
-<center>-----</center>
-
-## ¶ February 19 ☞ Network
-
-### Core
-
-+ Benjamin Lee, "Compounded Mediation: A Data Archaeology of the Newspaper Navigator Dataset" (2021), [external website](http://www.digitalhumanities.org/dhq/vol/15/4/000578/000578.html)
-+ Sandeep Soni, Lauren F. Klein, and Jacob Eisenstein, “Abolitionist Networks: Modeling Language Change in Nineteenth-Century Activist Newspapers” (2021), [external website](https://culturalanalytics.org/article/18841-abolitionist-networks-modeling-language-change-in-nineteenth-century-activist-newspapers)
-+ Ryan Cordell, "Viral Textuality" from _Going the Rounds: Virality in Nineteenth-Century American Newspapers_ (2023), [external website](https://manifold.umn.edu/projects/going-the-rounds)
-
-### Penumbra 
-
-+ Stuart McKee, "How Print Culture Became Indigenous" (2010), [external website](https://s3-us-west-2.amazonaws.com/visiblelanguage/pdf/44.2/how-print-culture-came-to-be-indigenous.pdf)
-+ Lara Langer Cohen, "Notes from the State of Saint Domingue: The Practice of Citation in Clotel," from _Early African American Print Culture_ (2012), [resource via library](http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/j.ctt3fhdr3.12)
-+ Paul Erickson, "The Business of Building Books" (2017), [external website](http://commonplace.online/article/business-building-books/)
-+ Brigitte Fielder and Jonathan Senchyne, "Introduction: Infrastructures of African American Print" from _Against a Sharp White Background: Infrastructures of African American Print_ (2019), [resource via library](https://muse-jhu-edu.proxy2.library.illinois.edu/chapter/2296781/pdf)
-+ Matthew G. Kirschenbaum, “Bibliologistics: The Nature of Books Now, or A Memorable Fancy” (2020), [external website](https://post45.org/2020/04/bibliologistics-the-nature-of-books-now-or-a-memorable-fancy/)
-+ Derrick R. Spires, "Order and Access: Dorothy Porter and the Mission of Black Bibliography" (2022), [resource via library](https://www-journals-uchicago-edu.proxy2.library.illinois.edu/doi/10.1086/719973)
-+ James Dobson and Scott Sanders, "Distant Approaches to the Printed Page" (2022), [external website](https://www.digitalstudies.org/article/id/8107/)
-
-### Book Lab: A Pressing Matter / Many Happy Returns
-
-<center><hr></center>
-
-# Chapter 3: Format
 
 
 
@@ -120,41 +76,12 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library for a s
 + Meredith L. McGill, "Format" (2018), [resource via library](https://muse-jhu-edu.proxy2.library.illinois.edu/article/707740)
 + Emily C. Friedman, "Amateur Manuscript Fiction in the Archives: An Introduction" (2020), [resource via library](https://doi-org.proxy2.library.illinois.edu/10.2307/j.ctvxbpf9s.13)
 + Lindsay Rose Russell, "Dictionary, Shaped: Artists' Books and Lexicography" (2020), [resource via library](https://muse-jhu-edu.proxy2.library.illinois.edu/article/775920)
-+  Caroline Wigginton, "An Indigenous Pipe Bibliography" from _The Unfinished Book_ (2021), [resource via library](https://www-oxfordhandbooks-com.proxy2.library.illinois.edu/view/10.1093/oxfordhb/9780198830801.001.0001/oxfordhb-9780198830801-e-19)
++ Caroline Wigginton, "An Indigenous Pipe Bibliography" from _The Unfinished Book_ (2021), [resource via library](https://www-oxfordhandbooks-com.proxy2.library.illinois.edu/view/10.1093/oxfordhb/9780198830801.001.0001/oxfordhb-9780198830801-e-19)
 
 ### Book Lab: Weird (Library) Science
 
 <center>-----</center>
 
-## ¶ March 4 ☞ Remediation
-
-### Core
-
-+ Ellen Gruber Garvey, "Introduction" from _Writing with Scissors_ (2012), [external website](https://www.google.com/books/edition/Writing_with_Scissors/HNcwsH_5k0AC?hl=en&gbpv=1&pg=PA3&printsec=frontcover)
-+ Zine Librarians' Code of Ethics (2015), [external website](https://www.zinelibraries.info/code-of-ethics/), and also browse the [_Queer Zine Archive Project_ blog](https://gittings.qzap.org/) and its [zine archive](https://archive.qzap.org/)
-+ Lori Emerson, "Media Archaeology Lab as Platform for Undoing and Reimagining Media History" (2023), [external website](https://loriemerson.net/2019/10/16/media-archaeology-lab-as-platform-for-undoing-and-reimagining-media-history/)
-  
-### Penumbra
-
-+ Leah Price, "Introduction" from _How to Do Things with Books in Victorian Britain_ (2012), [resource via library](http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/j.ctt7pgvx.5)
-+ Catherine Coker, "The Margins of Print? Fan Fiction as Book History" (2017), [external website](https://journal.transformativeworks.org/index.php/twc/article/view/1053)
-+ Jessica Marie Johnson, "Markup Bodies: Black \[Life\] Studies and Slavery \[Death\] Studies at the Digital Crossroads" (2018), [resource via library](https://read-dukeupress-edu.proxy2.library.illinois.edu/social-text/article/36/4%20(137)/57/137032/Markup-BodiesBlack-Life-Studies-and-Slavery-Death)
-+ Aaron Kashtan, "Introduction: Comics, Materiality, and the Future of the Book" from _Between Pen and Pixel: Comics, Materiality, and the Book of the Future_ (2018), [resource via library](http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/j.ctv1khdqnk.5)
-+ Tyler Shoemaker, "Error Aligned" (2019), [external website](https://scholarworks.iu.edu/journals/index.php/textual/article/view/27153/32677)
-+ (Listen, ~1 hour) RadioLab, "The Wubi Effect" (2020), [external website](https://radiolab.org/podcast/wubi-effect)
-+ Adam Hammond, "Books in Videogames" from _The Unfinished Book_ (2021), [resource via library](https://www-oxfordhandbooks-com.proxy2.library.illinois.edu/view/10.1093/oxfordhb/9780198830801.001.0001/oxfordhb-9780198830801-e-23)
-
-### Book Lab: I Feel Zine
-
-<center>-----</center>
-
-## March 9-17 ☞ Spring Break
-
-## March 14 ☞ Optional Guest Lecture in RBML
-
-If you are free and interested during spring break, Adrian Johns will be giving a virtual lecture on his book, _The Science of Reading and the Making of the Information Society_, that clearly intersects with our course and could provide context for one of your Book Reports. There's[more info and a sign up link](https://calendars.illinois.edu/detail/2169?eventId=33479642) at RBML's site. 
-
-<center>-----</center>
 
 ## ¶ March 18 ☞ Process
 
@@ -212,7 +139,6 @@ _Visiting expert Professor Bea Nettles_
 ### Penumbra
 
 + Steven Lubar, "'Do Not Fold, Spindle or Mutilate': A Cultural History of the Punch Card" (1992), [resource via library](https://onlinelibrary-wiley-com.proxy2.library.illinois.edu/doi/epdf/10.1111/j.1542-734X.1992.1504_43.x)
-+ Sydney Shep, "'Smiley, you’re on candid camera': Emoticons & Pre-Digital Networks" (2010), [external website](https://www.erudit.org/en/journals/memoires/2010-v2-n1-memoires3974/045315ar/)
 + Lori Emerson, "Indistinguishable from Magic: Invisible Interfaces and Digital Literature as Demystifier" from _Reading Writing Interfaces: From the Digital to the Bookbound_ (2014), [resource via library](https://www-jstor-org.proxy2.library.illinois.edu/stable/10.5749/j.ctt6wr7dw)
 + Craig Mod, "Future Reading" (2015), [external website](https://aeon.co/essays/stagnant-and-dull-can-digital-books-ever-replace-print)
 + David C. Zentgraf, "What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text" (2015), [external website](https://kunststube.net/encoding/)

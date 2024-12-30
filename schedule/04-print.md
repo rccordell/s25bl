@@ -10,6 +10,7 @@ layout: post
 
 + Benjamin Franklin, _The Autobiography of Benjamin Franklin_ (1916), Chapters 2-7 (mostly skim, but read the sections describing the print shop, which are spread through these chapters, closely), [external website](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#II)
 + Lisa Gitelman, "Print Culture (Other Than Codex): Job Printing and Its Importance" from _Comparative Textual Media_ (2013), [resource via library](http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.5749/j.ctt5hjjtq.3)
++ Amaranth Borsuk, ["The Book as Content"](https://ebookcentral.proquest.com/lib/uiuc/reader.action?docID=5376610&ppg=79) from _The Book_ (2018), [resource via library](https://ebookcentral.proquest.com/lib/uiuc/detail.action?docID=5376610)
 + Watch videos 2-9 in this [orientation playlist from my previous press](https://www.youtube.com/playlist?list=PL_sY2bPJ-fqe6NL06P_V1WH0ksPQePd2a) (watch from "Investigating a Composed Form of Type" to "Woodcuts"). These will explain the basics of typesetting with a close-up video of the process and allow us to jump into our lab more quickly. This should take 30-40 minutes in total, but please pay close attention—the details are important.
 
 ### Penumbra
