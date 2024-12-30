@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /schedule/00-toc/
 title: Schedule
 ---
 
@@ -15,37 +16,21 @@ The penumbral readings try to capture a broader set of brilliant readings pertin
 
 > Our first unit introduces Whitney Trettien's framework for comparative historical media studies, ["Substrate, Platform, Interface, Format,"](https://www.jstor.org/stable/48736944) which structures the rest of the syllabus. We then consider the substrate—the base material layer—from the print to the digital age.
 
-| Chapter | Date | Topic | Lab |
+| Chapter | Date | Topic | Book Lab |
 | :-- | :--- | :---: | --------:|
 | 1 | Jan. 27 | [Media]({{site.baseurl}}/schedule/01-media) | Knew Media |
-| 2 | Feb. 3 | [Book]({{site.baseurl}}/schedule/02-book
-) | Rarely Reading |
+| 2 | Feb. 3 | [Book]({{site.baseurl}}/schedule/02-book) | Rarely Reading |
+| 3 | Feb. 10 | [Page]({{site.baseurl}}/schedule/03-page) | Ragtime |
+
+## Volume II: Substrate
+
+> Our second unit focuses on the platform, or the linked systems of technology and people that circumscribe the affordances and limitations of distinct media.
+
+| Chapter | Date | Topic | Book Lab |
+| :-- | :--- | :---: | --------:|
+| 4 | Feb. 17 | [Print]({{site.baseurl}}/schedule/04-print) | Compose Yourself |
 
 
-
-# Chapter 2: Platform
-
-Our second unit focuses on the platform, or the linked systems of technology and people that circumscribe the affordances and limitations of distinct media.
-
-To prepare for our labs in the coming weeks, you should choose one of the definitions of "the book" Amaranth Borsuk compiled from scholars, artists, writers, and many others when writing _The Book_. Find a definition that resonates with your own understandings of and ambitions for the book: one that feels somehow meaningful to you. The <https://t-h-e-b-o-o-k.com/> website does not work well anymore, but is [archived through the Wayback Machine](https://web.archive.org/web/20210301122906/https://t-h-e-b-o-o-k.com/definitions/), where the collected definitions are easier to browse.
-
-## ¶ February 5 ☞ Print
-
-### Core 
-
-+ Benjamin Franklin, _The Autobiography of Benjamin Franklin_, Chapters 2-7 (mostly skim, but read the sections describing the print shop, which are spread through these chapters, closely), [external website](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#II)
-+ Watch videos 2-9 in this [orientation playlist from my previous press](https://www.youtube.com/playlist?list=PL_sY2bPJ-fqe6NL06P_V1WH0ksPQePd2a) (watch from "Investigating a Composed Form of Type" to "Woodcuts"). These will explain the basics of typesetting with a close-up video of the process and allow us to jump into our lab more quickly. This should take 30-40 minutes in total, but please pay close attention—the details are important.
-
-### Penumbra
-
-+ ["Learning to Set Type" vocational film](https://youtu.be/AHrLIVeH1KM) (1940s)
-+ Marcy J. Dinius, “‘Look!! Look!!! at This!!!!’: The Radical Typography of David Walker’s Appeal” (2011), [resource via library](https://www-cambridge-org.proxy2.library.illinois.edu/core/journals/pmla/article/look-look-at-this-the-radical-typography-of-david-walkers-appeal/F39DE812CB89744C279FE058C9F7140C)
-+ Corinna Zeltsman, "Defining Responsibility: Printers, Politics, and the Law in Early Republican Mexico City" (2018), [resource via library](https://read-dukeupress-edu.proxy2.library.illinois.edu/hahr/article/98/2/189/134042/Defining-Responsibility-Printers-Politics-and-the)
-+ Marcy J. Dinius, "Press" (2018), [resource via library](https://muse-jhu-edu.proxy2.library.illinois.edu/article/707752)
-
-### Book Lab: Compose Yourself
-
-<center>-----</center>
 
 ## ¶ February 12 ☞ Information
 
@@ -59,18 +44,10 @@ To prepare for our labs in the coming weeks, you should choose one of the defini
 
 + Vannevar Bush, "As We May Think" (1945), [external website](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
 + James Gleick, "Two Wordbooks" from _The Information: A History, A Theory, a Flood_ (2011), [Canvas link](https://canvas.illinois.edu/courses/42143/files?preview=11085116)
-+ Lisa Gitelman, "Print Culture (Other Than Codex): Job Printing and Its Importance" from _Comparative Textual Media_ (2013), [resource via library](http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.5749/j.ctt5hjjtq.3)
 + Molly O’Hagan Hardy, "'Black Printers' on White Cards: Information Architecture in the Data Structures of the Early American Book Trades," from _Debates in the Digital Humanities 2016_ (2016), [external website](http://dhdebates.gc.cuny.edu/debates/text/82)
 + Matthew P. Brown, "Blanks: Data, Method, and the British American Print Shop" (2017), [resource via library](https://muse-jhu-edu.proxy2.library.illinois.edu/article/659831)
-+ Andrew Piper, Chad Wellmon, and Mohamed Cheriet, "The Page Image: Towards a Visual History of Digital Documents" (2020), [resource via library](https://muse-jhu-edu.proxy2.library.illinois.edu/article/770717)
 
 ### Book Lab: A Pressing Matter / Many Happy Returns
-
-<center>-----</center>
-
-## February 16 ☞ Bonus Riso!
-
-Optional workshop on Risograph printing with [Prof. Will Arnold](https://www.twarnold.com/portfolio/about/). Check out his zines and comics here: <https://www.twarnold.com/portfolio/category/books-zines-cat/>. Hosted at Skeuomorph Press from 10am-noon. [More info and signup here](https://skeuomorph.ischool.illinois.edu/2024/02/01/riso-workshop-with-will-arnold-feb-16-2024/).
 
 <center>-----</center>
 
