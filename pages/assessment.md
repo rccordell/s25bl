@@ -53,3 +53,21 @@ Students must initiate an incomplete request by **_contacting the instructor_. T
 A request for an incomplete grade is most often granted to students encountering a medical emergency or other extraordinary circumstances beyond their control. Students must request an incomplete grade from the instructor. The instructor and student will agree on a due date for completion of coursework. The student must submit an Incomplete Form signed by the student, the instructor, and the student&#39;s academic advisor to the front office: [https://uofi.app.box.com/s/sx7arobhr0gfw12teaetmp1qq32ifdrd](https://uofi.app.box.com/s/sx7arobhr0gfw12teaetmp1qq32ifdrd)
 
 Please see the Student Code for full details: [http://studentcode.illinois.edu/article3/part1/3-104/](http://studentcode.illinois.edu/article3/part1/3-104/)
+
+## Grade Evaluation Rubric
+
+When you assess your work in IS583DH, I encourage you to take a holistic approach. The rubric below can help guide your evaluation, but I am also happy to chat about these expectations and your performance at any time.
+
+| Component | Exceeds Expectations | Meets Expectations | Below Expectations |
+| :-- | :-----: | :-----: | :-----: | 
+| Attendance and Participation | Attends all meetings and activity participates in discussion and lab activities, drawing from assigned materials in specific and relevant ways. | Attends most meetings and participates in the majority of discussions. | Misses a number of meetings and only occasionally participates in discussion. |
+| Discussion Prep | Reads all core assignments and one penumbral assignment for each discussion section and is prepared with 3 well-developed questions or observations for each class | Reads the majority core assignments and usually one penumbral assignment for each discussion section and prepares 3 questions or observations for each class | Does not consistently read assigned materials and struggles to prepare discussion prep |
+| Book Reports | Completes all lab activities and submits well-developed book reports for each unit that describe praxis in light of our reading and discussions. | Completes the majority of lab activities and submits book reports that tie praxis with our readings and discussions | Only completes a few lab activities and submits some book reports. | 
+| Final Project | Completes each stage of the book project on time and contributes a stellar book to the final showcase | Completes each stage of the book project and submits a book by the final showcase | Does not fully complete the book project |
+
+### Sample grades based on rubric:
+
+- A: Exceeds expectations consistently across all grade contract categories throughout the semester
+- B: Generally meets expectations across grade categories
+- C: Falls short of expectations in 1-2 categories
+- D or F: does not meet expectations in most categories
