@@ -1,6 +1,6 @@
 ---
 title: "Chapter 11: Data"
-permalink: /schedule/11-Data/
+permalink: /schedule/11-data/
 layout: post
 ---
 

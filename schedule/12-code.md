@@ -1,6 +1,6 @@
 ---
 title: "Chapter 12: Code"
-permalink: /schedule/12-Code/
+permalink: /schedule/12-code/
 layout: post
 ---
 

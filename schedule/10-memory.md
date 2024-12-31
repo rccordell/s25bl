@@ -1,6 +1,6 @@
 ---
 title: "Chapter 10: Memory"
-permalink: /schedule/10-Memory/
+permalink: /schedule/10-memory/
 layout: post
 ---
 

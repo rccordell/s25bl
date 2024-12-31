@@ -1,6 +1,6 @@
 ---
 title: "Chapter 13: Generative"
-permalink: /schedule/13-Generative/
+permalink: /schedule/13-generative/
 layout: post
 ---
 
