@@ -5,8 +5,8 @@ title: Syllabus
 
 ## BookLab: Print to Programming
 
-+ Course Number: IS583 BL / ENGL578 BL
-+ Spring 2024
++ Course Number: IS583 BL
++ Spring 2025
 + Classroom: [CU Community FabLab](http://cucfablab.org/)
 + Class Time: Mondays 9-11:50
 + Credit hours: 4
@@ -14,15 +14,13 @@ title: Syllabus
     + Monday-Thursday 5-9pm & Sunday 1-6pm (public)
     + Friday 1-5pm (students in FabLab classes) 
 +  Skeuomorph Press Open Hours: 
-    + Sunday 1-6pm
-    + Tuesday & Wednesday 5-9pm
+    + tbd
 
 ## Instructor Info
 
 + Ryan Cordell
 + Office: 614 Daniel St., Room 5147
-+ Office Hours: Mon-Wed 12-1pm in Skeuomorph Press, and by appointment
-+ Phone: 217-333-2622
++ Office Hours: Tuesdays 11-1 in Skeuomorph Press, and by appointment
 + Email: [rcordell@illinois.edu](mailto:rcordell@illinois.edu). 
 
 ## Course Description
