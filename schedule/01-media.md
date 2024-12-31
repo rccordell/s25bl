@@ -19,6 +19,7 @@ layout: post
 + N. Katherine Hayles and Jessica Pressman, "Making, Critique: A Media Framework," introduction to _Comparative Textual Media_ (2013), [resource via library](http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.5749/j.ctt5hjjtq.3)
 + Tara Brabazon, “Dead Media: Obsolescence and Redundancy in Media History” (2013), [external website](https://journals.uic.edu/ojs/index.php/fm/article/view/4466/3701) 
 + Mark Alan Mattes, “Media” (2018), [resource via library](https://muse-jhu-edu.proxy2.library.illinois.edu/article/707746)
++ Caroline Wigginton, "An Indigenous Pipe Bibliography" from _The Unfinished Book_ (2021), [resource via library](https://www-oxfordhandbooks-com.proxy2.library.illinois.edu/view/10.1093/oxfordhb/9780198830801.001.0001/oxfordhb-9780198830801-e-19)
 + Lori Emerson, "Media Archaeology Lab as Platform for Undoing and Reimagining Media History" (2023), [external website](https://loriemerson.net/2019/10/16/media-archaeology-lab-as-platform-for-undoing-and-reimagining-media-history/)
 
 ### Book Lab: Knew Media

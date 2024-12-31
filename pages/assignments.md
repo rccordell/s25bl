@@ -19,7 +19,7 @@ Your work in BookLab will unfold through these major assignments:
 
 For each week of class there are readings listed under _Core_ and _Penumbra_. The core readings are just that: central to the week's discussion and lab. Everyone should read these closely and prepare to discuss them. The penumbral readings try to capture a broader spectrum of scholarship pertinent to each week's theme, which I could not require because time is, sadly, finite. Each week you should choose one of the penumbral readings, based on your own interests, to read and be prepared to reference as a means of expanding our conversation together.
 
-To prepare for our discussions, each week you should draft 2-3 substantial questions or critical observations that highlight details of interest from the core (and your chosen penubral) readings, connect ideas across the week's readings (or even across different weeks), or probe the boundaries or limitations of the assigned texts. The goal of this assignment is not to test your knowledge of our readings, but to prompt dialog, so I try not to be prescriptive. In general, however, your discussion prep should:
+To prepare for our discussions, each week you should draft 2-3 substantial questions or critical observations that highlight details of interest from the core (and your chosen penumbral) readings, connect ideas across the week's readings (or even across different weeks), or probe the boundaries or limitations of the assigned texts. The goal of this assignment is not to test your knowledge of our readings, but to prompt dialog, so I try not to be prescriptive. In general, however, your discussion prep should:
 
 1.  Get beyond basic questions or observations of fact and instead work toward questions or observations of significance.
 2.  Demonstrate close thought about the frameworks of our texts, as well as about the relationships among them.
@@ -38,14 +38,14 @@ I will not collect your discussion prep each week. This does not mean, however, 
 ### Assignment Overview
 
 + Students will work individually
-+ 4 submissions through the semester (1 for each unit of the class)
++ 3 submissions through the semester (1 for 3/4 units of the class)
 + ~750-1000 words apiece
 + Submitted via Canvas
-+ Due within a week of the end of each unit
++ Due within a week of the end of each unit/"Volume"
 
 ### Assignment Details
 
-As the semester progresses, you will use our readings, class discussions, archival visits, labs, and other activities to develop an understanding of the book as a synecdoche for larger structures of information and media. You will reflect on these connections in a series of four "book reports"—one for each chapter/unit of the class (save the Coda). 
+As the semester progresses, you will use our readings, class discussions, archival visits, labs, and other activities to develop an understanding of the book as a synecdoche for larger structures of information and media. You will reflect on these connections in a series of three "book reports." You will choose to submit a report for three out of the four units/"Volumes" of our class. I highly recommend you do not skip reports for the first units, as finishing those will give you more flexibility as the class and semester get busier.
 
 Book reports should aim for more substance and detail than a typical class forum response, but they are not full-fledged academic essays. Think instead of smart, critical writing you might encounter online: a blog entry or a sharp opinion piece. You can choose your focus for each, drawing on the readings and activities of the relevant chapter/unit of the class. Reports should synthesize and bring unit readings into conversation, and focus on developing an argument around a few core themes or ideas. You should not spend words summarizing readings or recounting discussions from class, but instead choosing details that help illustrate your own ideas. 
 
@@ -53,10 +53,10 @@ Remember what [Judge John Hodgman](https://maximumfun.org/podcasts/judge-john-h
 
 Each report is due 1 week following the close of the relevant unit. I consider Friday the end of our week, even through we meet Mondays. So the posts will be due:
 
-+ [Chapter 1 ☞ Substrate: February 9](https://canvas.illinois.edu/courses/42143/assignments/881975)
-+ [Chapter 2 ☞ Platform: March 1](https://canvas.illinois.edu/courses/42143/assignments/881976)
-+ [Chapter 3 ☞ Format: April 5](https://canvas.illinois.edu/courses/42143/assignments/881977)
-+ [Chapter 4 ☞ Interface: April 26](https://canvas.illinois.edu/courses/42143/assignments/881978)
++ [Chapter 1 ☞ Substrate: February 21](https://canvas.illinois.edu/courses/52853/assignments/1161633)
++ [Chapter 2 ☞ Platform: March 21](https://canvas.illinois.edu/courses/52853/assignments/1161634)
++ [Chapter 3 ☞ Interface: April 18](https://canvas.illinois.edu/courses/52853/assignments/1161636)
++ [Chapter 4 ☞ Format: May 16](https://canvas.illinois.edu/courses/52853/assignments/1161635)
 
 <center><hr></center>
 
@@ -66,9 +66,10 @@ Each report is due 1 week following the close of the relevant unit. I consider F
 
 + An original bookish object project students will conceive, develop, and produce over the semester
 + Students work individually or collaboratively
-+ Proposal due March 22, prototype due April 12
++ Proposal due April 4, prototype due April 25
++ Meeting with professor during process
 + Milestones and artist's statement due through Canvas
-* Project & artist's statement due by showcase on Monday, April 29
+* Project & artist's statement due by the project showcase on Monday, May 5
 
 ### Acknowledgment
 
@@ -90,13 +91,13 @@ Below are some general design models you could consider adopting, but other mode
 +  _Book Kit_: the idea here is a book, or the makings of a book, in a box. The box or container becomes part of the work, and should convey something meaningful to those who find it. Things to think about include whether a reader is meant to assemble (and disassemble) the book for themselves, what all goes into the box, and how it is meant to be encountered (In a public place? Randomly? Addressed to a specific individual?)
 +  _Interactive Digital Book_: this kind of book can develop in many directions, but a digital book should employ and forefront the possibilities of digital media through affordances such as linking, interactivity, changeability, etc. Like the other options, these books should be explicit and thoughtful about their medium. They should, in other words, be books that could only exist as digital books, not simply books that happen to be on the web. 
 
-#### Project Milestones
+### Project Milestones
 
 This project will be your cultimating intellectual contribution to BookLab. In order to ensure you fully develop your idea, we will observe several milestones throughout the semester. The due dates listed here are the latest possible dates for each milestone, but you are free to submit each earlier, particularly if you anticipate revisions. 
 
-##### [1. Proposal: Friday, March 22](https://canvas.illinois.edu/courses/42143/assignments/881979)
+#### [1\. Proposal: Friday, April 4](https://canvas.illinois.edu/courses/52853/assignments/1161638)
 
-By Friday, March 22 you will submit a proposal outlining the book project you hope to complete, as well as the steps required to do so. Each proposal should describe:
+By Friday, April 4 you will submit a proposal outlining the book project you hope to complete, as well as the steps required to do so. Each proposal should describe:
 
 1.  The content of your book. What will it be about?
 2.  The format of your book. Will it be printed and bound? A zine? An ebook? A hybrid? Something else?
@@ -108,9 +109,9 @@ By Friday, March 22 you will submit a proposal outlining the book project you ho
 
 We will discuss your proposals together in order to ensure they are well defined and scoped appropriately. All proposals need to be accepted before you move on to the next stage of development.
 
-##### [2. Prototype: Friday, April 12](https://canvas.illinois.edu/courses/42143/assignments/881980)
+#### [2\. Prototype: Friday, April 25](https://canvas.illinois.edu/courses/52853/assignments/1161639)
 
-By Friday, April 12 you will submit a prototype demonstrating the viability of your project proposal. What you will submit during the prototype stage will vary widely by project, but it should essentially be a proof of concept: evidence that the plan you outlined in your proposal is feasible and that you are on track toward completion. Among other possibilities, you might submit:
+By Friday, April 25 you will submit a prototype demonstrating the viability of your project proposal. What you will submit during the prototype stage will vary widely by project, but it should essentially be a proof of concept: evidence that the plan you outlined in your proposal is feasible and that you are on track toward completion. Among other possibilities, you might submit:
 
 1.  A few pages from a longer analog project in process
 2.  A set of conceptual drawings or wireframes illustrating your progress
@@ -118,19 +119,19 @@ By Friday, April 12 you will submit a prototype demonstrating the viability of y
 
 The prototype is due at the mid-point of the project's development from proposal to showcase. The primary goal for the prototype stage is demonstrating steady progress, and ensuring that your plans remain feasible. If your project has significantly shifted from what was proposed and accepted at the proposal stage, the prototype stage will also be the point at which you will submit a revised project proposal.
 
-##### [3. Professor Meeting: Between March 21 and April 22](https://canvas.illinois.edu/courses/42143/assignments/881981)
+#### [3\. Professor Meeting: Before April 25](https://canvas.illinois.edu/courses/52853/assignments/1161637)
 
-Sometime during your work on the project, you (and your collaborators, if relevant) must meet with me individually to discuss your project and progress. You are certainly invited to meet with me more than once, but at least one meeting is required.
+Sometime during your work on the project, you (and your collaborators, if relevant) must meet with me individually to discuss your project and progress. You are certainly invited to meet with me more than once, but at least one meeting is required, before the date the prototype is due.
 
-##### [4. Final Project: Monday, April 29](https://canvas.illinois.edu/courses/42143/assignments/881983)
+#### [4\. Final Project: Monday, May 5](https://canvas.illinois.edu/courses/52853/assignments/1161640)
 
-Your project should result in a final object, set of objects, or digital artifact, as well as an artist(s) statement describing what you have accomplished in your project. These will be due a little before the end of the semester, in time for the final project showcase during the last two days of class.
+Your project should result in a final object, set of objects, or digital artifact, as well as an artist(s) statement describing what you have accomplished in your project. These will be due in time for the final project showcase during the last two days of class.
 
-###### Artist(s) Statement
+##### Artist(s) Statement
 
 Your final project must include an artist(s) statement—a reflection, essentially—of approximately 1000 words which outlines your book's concept and ambitions, its influences, your process, and challenges. Be sure to address what you learned in the process of making the book, and describe what your book means to you in the end.
 
-Like the projects themselves, these statements will vary widely, but they should help readers/users understand the ideas about media/bookishness your project seeks to instantiate, the methods and materials you used in producing your book, and any habits of reading required to fully understand your book project. In short, your statement should summarize the intellectual work of your semester so that the labor of your project—both physical and mental—is clear. Depending on the form and media of your book, your statement may be direclty incorporated into your book, or it may be a separate document.
+Like the projects themselves, these statements will vary widely, but they should help readers/users understand the ideas about media/bookishness your project seeks to instantiate, the methods and materials you used in producing your book, and any habits of reading required to fully understand your book project. In short, your statement should summarize the intellectual work of your semester so that the labor of your project—both physical and mental—is clear. Depending on the form and media of your book, your statement may be directly incorporated into your book, or it may be a separate document.
 
 Finally, please be sure to include the following specific information:
 
@@ -142,7 +143,7 @@ Finally, please be sure to include the following specific information:
 + The number of copies extant
 + Materials: what is the paper made out of? How is it bound? How was it printed? What fonts did you use? Are there other notable materials? Watercolors? Special inks? Give as much detail as possible.
 
-  ###### Project Ownership and Sharing Permissions 
+##### Project Ownership and Sharing Permissions 
 
 Your book ultimately belongs, but I will ask permission to exhibit it—at least temporarily—at Skeuomorph, as well as present photos/video online for other interested scholars and students. Essentially, in my experience these projects tend to be pretty cool. Since I know I'll be asking for this permission at some point, this semester I'm doing it preemptively! 
 
@@ -153,6 +154,6 @@ To let me know whether you are comfortable with this kind of sharing, please inc
 > ——————————————————
 > Signature/ Date
   
-###### BookLab Exhibit
+##### BookLab Exhibit
 
 On the last day of class you will share your projects with each other and interested members of the campus community. We will discuss this event in more detail as the end of the semester approaches, but it will take the rough form of a poster presentation

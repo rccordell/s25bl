@@ -17,5 +17,7 @@ layout: post
 + Lisa Gitelman, "Near Print and Beyond Paper: Knowing by \*.pdf" from _Paper Knowledge: Toward a Media History of Documents_ (2014), [file on Canvas](https://canvas.illinois.edu/courses/32809/files/folder/Readings?preview=7831903)
 + Sarah Werner, “Paper” from Studying Early Printed Books, 1450-1800 : A Practical Guide (2019), [library resource](http://www.library.illinois.edu.proxy2.library.illinois.edu/proxy/go.php?url=https://search-ebscohost-com.proxy2.library.illinois.edu/login.aspx?direct=true&db=nlebk&AN=1991322&site=eds-live&scope=site&ebv=EK&ppid=Page-__-34)
 + Jonathan Senchyne, "Introduction" and "Conclusion: Reading Into Surfaces" from _The Intimacy of Paper in Early and Nineteenth-Century American Literature_ (2019), [resource via library](https://muse-jhu-edu.proxy2.library.illinois.edu/book/78288)
++ Andrew Piper, Chad Wellmon, and Mohamed Cheriet, "The Page Image: Towards a Visual History of Digital Documents" (2020), [resource via library](https://muse-jhu-edu.proxy2.library.illinois.edu/article/770717)
++ Mia Sato, "The Perfect Web Page" (2024), [external website](https://www.theverge.com/c/23998379/google-search-seo-algorithm-webpage-optimization)
 
 ### Book Lab: That Was Illuminating
