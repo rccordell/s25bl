@@ -1,6 +1,6 @@
 ---
 title: "Chapter 7: Reception"
-permalink: /schedule/07-remediation/
+permalink: /schedule/07-reception/
 layout: post
 ---
 

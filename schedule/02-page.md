@@ -11,6 +11,7 @@ layout: post
 + Herman Melville, "The Paradise of Bachelors and the Tartarus of Maids" (1855), [external website](https://babel.hathitrust.org/cgi/pt?id=uc1.b000541557&view=1up&seq=682)
 + Bonnie Mak, “Architectures of the Page” from _How the Page Matters_ (2012), [resource via library](https://ebookcentral.proquest.com/lib/uiuc/detail.action?docID=4672399)
 + Ken Liu, "The Bookmaking Habits of Select Species," (2012), [external website](https://www.lightspeedmagazine.com/fiction/the-bookmaking-habits-of-select-species/)
++ Martin Paul Eve, "New Leaves: Riffling the History of Digital Pagination" (2022), [external website](https://muse.jhu.edu/article/872063)
 
 ### Penumbra
 
