@@ -11,6 +11,7 @@ layout: post
 + James Gleick, "Two Wordbooks" from _The Information: A History, A Theory, a Flood_ (2011), LINK NEEDED
 + Ellen Cushman, "We're Taking the Genius of Sequoyah into This Century': The Cherokee Syllabary, Peoplehood, and Perseverance" (2011), [resource via library](https://muse-jhu-edu.proxy2.library.illinois.edu/article/434807)
 + Rachel Sagner Buurma, "Indexed" from _The Unfinished Book_ (2021), [resource via library](https://www-oxfordhandbooks-com.proxy2.library.illinois.edu/view/10.1093/oxfordhb/9780198830801.001.0001/oxfordhb-9780198830801-e-27)
++ Ryan Cordell, "Viral Textuality" from _Going the Rounds: Virality in Nineteenth-Century American Newspapers_ (2023), [external website](https://manifold.umn.edu/projects/going-the-rounds)
 
 ### Penumbra
 

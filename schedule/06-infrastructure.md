@@ -9,8 +9,8 @@ layout: post
 ### Core
 
 + Brigitte Fielder and Jonathan Senchyne, "Introduction: Infrastructures of African American Print" from _Against a Sharp White Background: Infrastructures of African American Print_ (2019), [resource via library](https://muse-jhu-edu.proxy2.library.illinois.edu/chapter/2296781/pdf)
-+ Ryan Cordell, "Viral Textuality" from _Going the Rounds: Virality in Nineteenth-Century American Newspapers_ (2023), [external website](https://manifold.umn.edu/projects/going-the-rounds)
 + Matthew G. Kirschenbaum, “Bibliologistics: The Nature of Books Now, or A Memorable Fancy” (2020), [external website](https://post45.org/2020/04/bibliologistics-the-nature-of-books-now-or-a-memorable-fancy/)
++ Courtney “Jet” Jacobs, Marcia McIntosh, and Kevin M. O’Sullivan, "The Bibliographical Maker Movement" (2022), [external website](https://digital.library.unt.edu/ark:/67531/metadc1998727/m1/1/)
 
 ### Penumbra
 
