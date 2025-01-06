@@ -12,6 +12,7 @@ layout: post
 
 + Robert Darnton, "What is the History of Books? Revisited" (2007), [resource via library](https://www-cambridge-org.proxy2.library.illinois.edu/core/journals/modern-intellectual-history/article/what-is-the-history-of-books-revisited/58B54CA744EACF363ADD23C3473A4498)
 + Leah Price, "Introduction" from _How to Do Things with Books in Victorian Britain_ (2012), [resource via library](http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/j.ctt7pgvx.5)
++ Ken Liu, "The Bookmaking Habits of Select Species," (2012), [external website](https://www.lightspeedmagazine.com/fiction/the-bookmaking-habits-of-select-species/)
 + Amaranth Borsuk, ["The Book as Object"](https://ebookcentral.proquest.com/lib/uiuc/reader.action?docID=5376610&ppg=19) from _The Book_ (2018), [resource via library](https://ebookcentral.proquest.com/lib/uiuc/detail.action?docID=5376610)
 
 ### Penumbra
