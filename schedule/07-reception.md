@@ -18,6 +18,7 @@ layout: post
 + Amy Burek, Emily Alden Foster, Sarah Fox, and Daniela K. Rosner, “Feminist Hackerspaces: Hacking Culture, Not Devices (the zine!)” (2017), [external website](https://dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/633d5ff2-d3c4-4345-b7fe-048155e28493#ch25)
 + Aaron Kashtan, "Introduction: Comics, Materiality, and the Future of the Book" from _Between Pen and Pixel: Comics, Materiality, and the Book of the Future_ (2018), [resource via library](http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/j.ctv1khdqnk.5)
 + Alexis Easley, "Scrapbooks and Women’s Leisure Reading Practices, 1825–60" (2019), [external website](https://www.ncgsjournal.com/issue152/easley.html)
++ Jillian M. Hess, "Anatomy of the Commonplace" in _How Romantics and Victorians Organized Information: Commonplace Books, Scrapbooks, and Albums_ (2022), [resource via library](https://doi-org.proxy2.library.illinois.edu/10.1093/oso/9780192895318.003.0002)
 + Jolie Braun, "1990s Zine Distribution and Understanding the Work of Zine Distros through Their Catalogs" (2024), [resource via library](https://www-journals-uchicago-edu.proxy2.library.illinois.edu/doi/10.1086/731777)
 
 ### Just for Fun
