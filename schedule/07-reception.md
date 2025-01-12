@@ -11,6 +11,7 @@ layout: post
 + Ellen Gruber Garvey, "Introduction" from _Writing with Scissors_ (2012), [external website](https://www.google.com/books/edition/Writing_with_Scissors/HNcwsH_5k0AC?hl=en&gbpv=1&pg=PA3&printsec=frontcover)
 + Zine Librarians' Code of Ethics (2015), [external website](https://www.zinelibraries.info/code-of-ethics/), and also browse the [_Queer Zine Archive Project_ blog](https://gittings.qzap.org/) and its [zine archive](https://archive.qzap.org/)
 + Jolie Braun, "'Your Zine Changed My Life': The Impact and Legacy of Zines in Sassy Magazine" (2020), [resource via library](https://muse-jhu-edu.proxy2.library.illinois.edu/article/773269)
++ Jessica Gray and Bethany E. Qualls, "Thirteen Ways of Looking at a Commonplace Book" (2024), [external website](https://www.k-saa.org/commonplacing-special-issue-vol-2/thirteen-ways-of-looking-at-a-commonplace-book)
 
 ### Penumbra
 
