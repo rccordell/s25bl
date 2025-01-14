@@ -10,8 +10,8 @@ layout: post
 
 ### Core
 
-+ Charles W. Chesnutt, "Baxter's Procustes" (1904), [external website](https://loa-shared.s3.amazonaws.com/static/pdf/Chesnutt_Baxters_Procrustes.pdf)
 + Amaranth Borsuk, [“The Book as Idea”](https://ebookcentral.proquest.com/lib/uiuc/reader.action?docID=5376610&ppg=129) from _The Book_ (2018), [resource via library](https://ebookcentral.proquest.com/lib/uiuc/detail.action?docID=5376610)
++ Levi Sherman, "Interview with Tia Blassingame" [Part 1](https://artistsbookreviews.com/2020/12/26/interview-with-tia-blassingame-part-1-of-2/) and [Part 2](https://artistsbookreviews.com/2020/12/27/interview-with-tia-blassingame-part-2-of-2/) (2020)
 + Kadin Henningsen, "Making Mary Ann Waters is a Free Black Woman: Critical Fabrication as Bibliographic Method" (2022), [resource via library](https://muse-jhu-edu.proxy2.library.illinois.edu/pub/27/article/899737)
 
 ### Penumbra

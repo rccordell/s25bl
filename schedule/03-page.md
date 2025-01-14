@@ -20,4 +20,4 @@ layout: post
 + Andrew Piper, Chad Wellmon, and Mohamed Cheriet, "The Page Image: Towards a Visual History of Digital Documents" (2020), [resource via library](https://muse-jhu-edu.proxy2.library.illinois.edu/article/770717)
 + Mia Sato, "The Perfect Web Page" (2024), [external website](https://www.theverge.com/c/23998379/google-search-seo-algorithm-webpage-optimization)
 
-### Book Lab: TBD
+### Book Lab: That Old Time Rag
