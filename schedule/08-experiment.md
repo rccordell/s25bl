@@ -19,6 +19,7 @@ layout: post
 + Ulises Carrión, “The New Art of Making Books” (1975), [external website](https://www.serraglia.com/wp-content/uploads/2018/05/Ulises-Carrion-The-New-Art-of-Making-Books1.pdf)
 + Joseph Viscomi, "Illuminated Printing" exhibit from the _William Blake Archive_, [external website](http://www.blakearchive.org/exhibit/illuminatedprinting)
 + Charity Hancock, Clifford Hichar, Carlea Holl-Jensen, Kari Kraus, Cameron Mozafari, and Kathryn Skutlin, "Bibliocircuitry and the Design of the Alien Everyday" (2013), [external website](https://scholarworks.iu.edu/journals/index.php/textual/article/view/5051/4649)
++ Beth Driscoll and Claire Squires, [“‘Oh Look, a Ferry’; or the Smell of Printed Books”](https://scholarlypublications.universiteitleiden.nl/access/item%3A2716479/view) (2018)
 + Lindsay Rose Russell, "Dictionary, Shaped: Artists' Books and Lexicography" (2020), [resource via library](https://muse-jhu-edu.proxy2.library.illinois.edu/article/775920)
 
 ### Book Lab: Weird (Library) Science

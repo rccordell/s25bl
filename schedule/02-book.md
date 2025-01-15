@@ -13,7 +13,7 @@ layout: post
 + Robert Darnton, "What is the History of Books? Revisited" (2007), [resource via library](https://www-cambridge-org.proxy2.library.illinois.edu/core/journals/modern-intellectual-history/article/what-is-the-history-of-books-revisited/58B54CA744EACF363ADD23C3473A4498)
 + Ken Liu, "The Bookmaking Habits of Select Species," (2012), [external website](https://www.lightspeedmagazine.com/fiction/the-bookmaking-habits-of-select-species/)
 + Amaranth Borsuk, ["The Book as Object"](https://ebookcentral.proquest.com/lib/uiuc/reader.action?docID=5376610&ppg=19) from _The Book_ (2018), [resource via library](https://ebookcentral.proquest.com/lib/uiuc/detail.action?docID=5376610)
-+ Find 2-3 videos of interest from [Book Historia's Bite Sized Book History](https://www.youtube.com/@BookHistoria/videos) series and be ready to share what you learned from them
++ Jessica Pressman, "Introduction" to _Bookishness: Loving Books in a Digital Age_ (2020), [library resource](https://proxy2.library.illinois.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=e700xna&AN=2324550&site=ehost-live&scope=site&ebv=EB&ppid=pp_1)
 
 ### Penumbra
 
