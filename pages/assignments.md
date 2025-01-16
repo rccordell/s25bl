@@ -40,7 +40,7 @@ I will not collect your discussion prep each week. This does not mean, however, 
 + Students will work individually
 + 3 submissions through the semester (1 for 3/4 units of the class)
 + ~750-1000 words apiece
-+ Submitted via Canvas
++ [Submitted via Canvas](https://canvas.illinois.edu/courses/52853/assignments)
 + Due within a week of the end of each unit/"Volume"
 
 ### Assignment Details
@@ -66,10 +66,10 @@ Each report is due 1 week following the close of the relevant unit. I consider F
 
 + An original bookish object project students will conceive, develop, and produce over the semester
 + Students work individually or collaboratively
-+ Proposal due April 4, prototype due April 25
++ [Proposal due April 4](https://canvas.illinois.edu/courses/52853/assignments/1161638), [prototype due April 25](https://canvas.illinois.edu/courses/52853/assignments/1161639)
 + Meeting with professor during process
 + Milestones and artist's statement due through Canvas
-* Project & artist's statement due by the project showcase on Monday, May 5
+* Project & artist's statement due by the project showcase on Monday, May 5, and [digital elements to Canvas](https://canvas.illinois.edu/courses/52853/assignments/1161640)
 
 ### Acknowledgment
 
