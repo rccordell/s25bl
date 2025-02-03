@@ -10,8 +10,8 @@ layout: post
 
 + Ellen Gruber Garvey, "Introduction" from _Writing with Scissors_ (2012), [external website](https://www.google.com/books/edition/Writing_with_Scissors/HNcwsH_5k0AC?hl=en&gbpv=1&pg=PA3&printsec=frontcover)
 + Zine Librarians' Code of Ethics (2015), [external website](https://www.zinelibraries.info/code-of-ethics/), and also browse the [_Queer Zine Archive Project_ blog](https://gittings.qzap.org/) and its [zine archive](https://archive.qzap.org/)
-+ Amy Burek, Emily Alden Foster, Sarah Fox, and Daniela K. Rosner, "Feminist Hackerspaces: Hacking Culture, Not Devices (the zine!)" (2017), [external link](https://dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/633d5ff2-d3c4-4345-b7fe-048155e28493#ch25)
 + Jolie Braun, "'Your Zine Changed My Life': The Impact and Legacy of Zines in Sassy Magazine" (2020), [resource via library](https://muse-jhu-edu.proxy2.library.illinois.edu/article/773269)
++ Alex Hidalgo, "The Book as Archive" (2022), [resource via library](https://doi-org.proxy2.library.illinois.edu/10.1093/ahr/rhac144)
 
 ### Penumbra
 
