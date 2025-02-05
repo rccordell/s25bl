@@ -9,7 +9,7 @@ layout: post
 ### Core
 
 + Bonnie Mak, “Architectures of the Page” from _How the Page Matters_ (2012), [resource via library](https://ebookcentral.proquest.com/lib/uiuc/detail.action?docID=4672399)
-+ Lisa Gitelman, "Near Print and Beyond Paper: Knowing by \*.pdf" from _Paper Knowledge: Toward a Media History of Documents_ (2014), [file on Canvas](https://canvas.illinois.edu/courses/32809/files/folder/Readings?preview=7831903)
++ Lisa Gitelman, "Near Print and Beyond Paper: Knowing by \*.pdf" from _Paper Knowledge: Toward a Media History of Documents_ (2014), [file on Canvas](https://canvas.illinois.edu/files/16004116/download?download_frd=1)
 + Martin Paul Eve, "New Leaves: Riffling the History of Digital Pagination" (2022), [external website](https://muse.jhu.edu/article/872063)
 
 ### Penumbra
