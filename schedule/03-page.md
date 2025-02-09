@@ -21,3 +21,5 @@ layout: post
 + Mia Sato, "The Perfect Web Page" (2024), [external website](https://www.theverge.com/c/23998379/google-search-seo-algorithm-webpage-optimization)
 
 ### Book Lab: That Old Time Rag
+
+For today's lab, we will split the class between a guided and self-guided activity. [The directions for the self-guided activity can be found here](https://s25bl.ryancordell.org/lab/2025/02/08/paperlab.html).
