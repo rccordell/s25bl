@@ -1,10 +1,10 @@
 ---
-title: "Chapter 9: Interactive"
-permalink: /schedule/09-interactive/
+title: "Chapter 10: Interactive"
+permalink: /schedule/10-interactive/
 layout: post
 ---
 
-## March 31, 2025
+## April 7, 2025
 
 ### Core
 

@@ -1,10 +1,10 @@
 ---
-title: "Chapter 10: Memory"
-permalink: /schedule/10-memory/
+title: "Chapter 9: Memory"
+permalink: /schedule/09-memory/
 layout: post
 ---
 
-## April 7, 2025
+## March 31, 2025
 
 ### Core
 
@@ -23,4 +23,4 @@ layout: post
 + James A. Hodges, "Forensic Approaches to Evaluating Primary Sources in Internet History Research: Reconstructing Early Web-Based Archival Work (1989–1996)" (2021), [resource via library](https://www-tandfonline-com.proxy2.library.illinois.edu/doi/full/10.1080/24701475.2020.1784539)
 + James A. Hodges and Ciaran B. Trace, “Preserving Algorithmic Systems: A Synthesis of Overlapping Approaches, Materialities and Contexts,” _Journal of Documentation_ (2023), [resource via library](https://www-emerald-com.proxy2.library.illinois.edu/insight/content/doi/10.1108/JD-09-2022-0204/full/html)
 
-### Book Lab: Speed Data-ing
+### Book Lab: A Stitch in Time
