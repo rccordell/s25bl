@@ -22,3 +22,8 @@ layout: post
 + Derrick R. Spires, "Order and Access: Dorothy Porter and the Mission of Black Bibliography" (2022), [resource via library](https://www-journals-uchicago-edu.proxy2.library.illinois.edu/doi/10.1086/719973)
 
 ### Book Lab: Totally Fabricated
+
+#### Lab Resources
+
++ [Box models](https://boxes.hackerspace-bamberg.de/?language=en)
++ [Inkscape](https://inkscape.org)
