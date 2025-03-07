@@ -19,7 +19,7 @@ title: Syllabus
 
 + Ryan Cordell
 + Office: 614 Daniel St., Room 5147
-+ Office Hours: Fridays 1-3 in Skeuomorph Press, and by appointment
++ Office Hours: Fridays 2-4 in Skeuomorph Press, and by appointment
 + Email: [rcordell@illinois.edu](mailto:rcordell@illinois.edu). 
 
 ## Course Description
