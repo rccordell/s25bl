@@ -12,6 +12,7 @@ layout: post
 + Meredith L. McGill, "Format" (2018), [resource via library](https://muse-jhu-edu.proxy2.library.illinois.edu/article/707740)
 + Jessica Marie Johnson, "Markup Bodies: Black \[Life\] Studies and Slavery \[Death\] Studies at the Digital Crossroads" (2018), [resource via library](https://read-dukeupress-edu.proxy2.library.illinois.edu/social-text/article/36/4%20(137)/57/137032/Markup-BodiesBlack-Life-Studies-and-Slavery-Death)
 + Benjamin Lee, "Compounded Mediation: A Data Archaeology of the Newspaper Navigator Dataset" (2021), [external website](http://www.digitalhumanities.org/dhq/vol/15/4/000578/000578.html)
++ Browse, Anna's Archive, [Winners of the $10,000 ISBN visualization bounty](https://annas-archive.org/blog/all-isbns-winners.html) (2024)
 
 ### Penumbra
 
