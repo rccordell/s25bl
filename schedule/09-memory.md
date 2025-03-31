@@ -24,3 +24,5 @@ layout: post
 + James A. Hodges and Ciaran B. Trace, “Preserving Algorithmic Systems: A Synthesis of Overlapping Approaches, Materialities and Contexts,” _Journal of Documentation_ (2023), [resource via library](https://www-emerald-com.proxy2.library.illinois.edu/insight/content/doi/10.1108/JD-09-2022-0204/full/html)
 
 ### Book Lab: A Stitch in Time
+
+[Additional resources and tutorials for the binding lab can be found here](https://s25bl.ryancordell.org/lab/2025/03/31/StitchInTime.html).
