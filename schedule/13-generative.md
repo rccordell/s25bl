@@ -22,4 +22,4 @@ layout: post
 + Ryan Cordell, "The Scissors, the Paste-Pot, and the Large Language Model" (2023), [external website](https://ryancordell.org/research/scissors-paste-LLMs)
 + Nina Beguš, "Experimental narratives: A comparison of human crowdsourced storytelling and AI storytelling" (2024), [external website](https://www.nature.com/articles/s41599-024-03868-8)
 
-### Book Lab: Automatic. For the People?
+### Book Lab: Project Work

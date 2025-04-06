@@ -38,7 +38,7 @@ I will not collect your discussion prep each week. This does not mean, however, 
 ### Assignment Overview
 
 + Students will work individually
-+ 3 submissions through the semester (1 for 3/4 units of the class)
++ 2 submissions through the semester (1 for 2 of the first 3 units of the class)
 + ~750-1000 words apiece
 + [Submitted via Canvas](https://canvas.illinois.edu/courses/52853/assignments)
 + Due within a week of the end of each unit/"Volume"

@@ -23,4 +23,4 @@ layout: post
 
 
 
-### Book Lab: From a Distance
+### Book Lab: Project Work

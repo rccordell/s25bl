@@ -27,4 +27,4 @@ layout: post
     + Jacob Kowall and Hillary Szu Yin Shiue, “All Hyped Up for HyperCard: Further Adventures with an Apple Legacy Format" (2021), [external website](https://blogs.loc.gov/thesignal/2021/07/all-hyped-up-for-hypercard-further-adventures-with-an-apple-legacy-format/)
 
 
-### Book Lab: Speed Data-ing
+### Book Lab: Project Work

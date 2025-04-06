@@ -21,3 +21,5 @@ layout: post
 + Amanda Stuckey, "Access in Book History Methodology and Pedagogy: Report from the 'Touch to See' Workshop" (2022), [resource via library](https://proxy2.library.illinois.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edselc&AN=edselc.2-52.0-85165165636&site=eds-live&scope=site)
 
 ### Book Lab: Thoroughly Entwined
+
+[Additional resources and tutorials for the binding lab can be found here](https://s25bl.ryancordell.org/lab/2025/04/06/ThoroughlyEntwined.html).
